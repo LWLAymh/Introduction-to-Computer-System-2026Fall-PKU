@@ -1,0 +1,102 @@
+{
+  "file": "期末/2021期末-带答案/chap 2-6 解析.md",
+  "total_lines": 318,
+  "items": [
+    {
+      "start": 1,
+      "end": 35,
+      "module": "Data Representation",
+      "qno": "第一题 1",
+      "note": "int 与 float 混合运算的向偶数舍入，2^24 精度与循环终止"
+    },
+    {
+      "start": 37,
+      "end": 51,
+      "module": "Data Representation",
+      "qno": "第一题 2",
+      "note": "整数与浮点运算的结合律/分配律是否恒成立"
+    },
+    {
+      "start": 53,
+      "end": 61,
+      "module": "Machine Prog",
+      "qno": "第一题 3",
+      "note": "判断合法 x86-64 指令：立即数目标、双内存操作、比例因子"
+    },
+    {
+      "start": 63,
+      "end": 135,
+      "module": "Machine Prog",
+      "qno": "第一题 4",
+      "note": "由栈帧中保存的 %rbp 读取调用者的返回地址"
+    },
+    {
+      "start": 137,
+      "end": 145,
+      "module": "Processor Arch",
+      "qno": "第一题 5",
+      "note": "RISC 与 CISC 指令集特征比较"
+    },
+    {
+      "start": 147,
+      "end": 173,
+      "module": "Processor Arch",
+      "qno": "第一题 6",
+      "note": "Y86-64 PIPE 数据冒险与所需 nop 指令条数"
+    },
+    {
+      "start": 175,
+      "end": 183,
+      "module": "Processor Arch",
+      "qno": "第一题 7",
+      "note": "流水线延迟/吞吐率计算与插入流水线寄存器的影响"
+    },
+    {
+      "start": 185,
+      "end": 193,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 8",
+      "note": "程序优化：循环展开、累积变量、浮点结合律"
+    },
+    {
+      "start": 195,
+      "end": 203,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 9",
+      "note": "磁盘容量计算、SRAM/DRAM 特性、层次结构与局部性"
+    },
+    {
+      "start": 205,
+      "end": 213,
+      "module": "Processor Arch",
+      "qno": "第一题 10",
+      "note": "芯片布局算法的优化目标（存疑：偏硬件/EDA 设计）"
+    },
+    {
+      "start": 243,
+      "end": 245,
+      "module": "Memory Hierarchy",
+      "qno": "第二题 (1)",
+      "note": "FIFO 全相联 3 路与 4 路 cache 不命中次数比较"
+    },
+    {
+      "start": 247,
+      "end": 263,
+      "module": "Memory Hierarchy",
+      "qno": "第二题 (2)",
+      "note": "测 L1 相联度与容量：冷启动、访存时间转折点、FIFO 替换"
+    }
+  ],
+  "answer_sections": [
+    {
+      "start": 215,
+      "end": 241,
+      "note": "选择题 1-10 的答案与题解"
+    },
+    {
+      "start": 265,
+      "end": 318,
+      "note": "第二题标准答案、评分标准与详解"
+    }
+  ]
+}

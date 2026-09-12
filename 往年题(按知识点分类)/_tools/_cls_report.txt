@@ -1,0 +1,45 @@
+ok   Lab测验__2025Lab测验-无答案.json                            items=50   System IO=12, Machine Prog=8, Network=7, Data Represent=5, Processor Arch=5, Dynamic Memory=5, Compilation=4, Memory Hierarc=4
+ok   期中__2012期中-带答案.json                                  items=29   Machine Prog=12, Data Represent=10, Memory Hierarc=4, Compilation=2, Processor Arch=1
+ok   期中__2013期中-带答案.json                                  items=30   Machine Prog=8, Processor Arch=8, Data Represent=6, Memory Hierarc=5, Compilation=3
+ok   期中__2014期中-带答案.json                                  items=31   Machine Prog=8, Data Represent=7, Memory Hierarc=6, Processor Arch=5, Compilation=5
+ok   期中__2015期中-带答案.json                                  items=33   Data Represent=9, Processor Arch=9, Machine Prog=7, Memory Hierarc=7, Compilation=1
+ok   期中__2016期中-带答案.json                                  items=28   Machine Prog=9, Processor Arch=6, Data Represent=6, Memory Hierarc=5, Compilation=2
+ok   期中__2017期中-带答案.json                                  items=19   Data Represent=5, Machine Prog=5, Processor Arch=4, Memory Hierarc=4, Compilation=1
+ok   期中__2018期中-带答案.json                                  items=21   Data Represent=7, Memory Hierarc=5, Machine Prog=4, Processor Arch=4, Compilation=1
+ok   期中__2019期中-带答案.json                                  items=25   Machine Prog=7, Processor Arch=6, Data Represent=5, Memory Hierarc=5, Compilation=2
+ok   期中__2020期中-带答案.json                                  items=22   Machine Prog=8, Memory Hierarc=7, Processor Arch=4, Data Represent=2, Compilation=1
+ok   期中__2021期中-带答案.json                                  items=37   Data Represent=9, Machine Prog=9, Processor Arch=8, Memory Hierarc=7, Compilation=4
+ok   期中__2022期中-带答案.json                                  items=25   Memory Hierarc=7, Data Represent=6, Machine Prog=6, Processor Arch=5, Compilation=1
+ok   期中__2023期中-带答案.json                                  items=26   Data Represent=8, Machine Prog=8, Memory Hierarc=6, Processor Arch=3, Compilation=1
+ok   期中__2024期中-带答案.json                                  items=24   Memory Hierarc=7, Data Represent=6, Machine Prog=6, Processor Arch=4, Compilation=1
+skip 期中__2024期中-试题及答案勘误.json                              items=0    
+      ~ 勘误说明，非题目；items 为空是预期结果（本文件不含题目正文）
+ok   期末__2013期末-带答案.json                                  items=28   System IO=6, Dynamic Memory=5, Compilation=3, Network=3, Synchronizatio=3, Data Represent=2, Machine Prog=2, Processor Arch=2, Memory Hierarc=2
+ok   期末__2014期末-带答案.json                                  items=30   System IO=8, Compilation=4, Data Represent=3, Machine Prog=3, Dynamic Memory=3, Network=3, Synchronizatio=3, Memory Hierarc=2, Processor Arch=1
+ok   期末__2015期末-20151109-带答案.json                         items=24   Data Represent=6, Machine Prog=6, Memory Hierarc=6, Processor Arch=5, Compilation=1
+ok   期末__2015期末-20160104-带答案.json                         items=27   System IO=7, Dynamic Memory=5, Compilation=4, Machine Prog=3, Network=3, Synchronizatio=3, Data Represent=1, Processor Arch=1
+ok   期末__2016期末-带答案.json                                  items=27   System IO=5, Compilation=4, Dynamic Memory=4, Network=4, Synchronizatio=3, Data Represent=2, Machine Prog=2, Processor Arch=2, Memory Hierarc=1
+ok   期末__2017期末-无答案.json                                  items=28   System IO=5, Dynamic Memory=4, Network=4, Machine Prog=3, Compilation=3, Synchronizatio=3, Data Represent=2, Processor Arch=2, Memory Hierarc=2
+ok   期末__2018期末-带答案.json                                  items=24   Dynamic Memory=5, Network=4, Synchronizatio=4, Compilation=3, System IO=3, Memory Hierarc=2, Machine Prog=2, Processor Arch=1
+ok   期末__2019、2020期末-答案解析.json                            items=61   Dynamic Memory=10, Synchronizatio=10, System IO=9, Compilation=8, Network=6, Memory Hierarc=5, Processor Arch=5, Machine Prog=4, Data Represent=4
+ok   期末__2019期末-无答案.json                                  items=30   Synchronizatio=6, Processor Arch=5, Dynamic Memory=5, Network=4, System IO=3, Data Represent=2, Memory Hierarc=2, Compilation=2, Machine Prog=1
+ok   期末__2020期末-无答案.json                                  items=32   Dynamic Memory=7, System IO=6, Synchronizatio=5, Processor Arch=4, Compilation=3, Memory Hierarc=2, Data Represent=2, Network=2, Machine Prog=1
+ok   期末__2021期末-带答案__chap 10 解析.json                      items=2    System IO=2
+ok   期末__2021期末-带答案__chap 11-12 解析.json                   items=8    Network=5, Synchronizatio=3
+ok   期末__2021期末-带答案__chap 11-12 题目.json                   items=8    Network=5, Synchronizatio=3
+ok   期末__2021期末-带答案__chap 2-6 解析.json                     items=12   Processor Arch=4, Memory Hierarc=3, Data Represent=2, Machine Prog=2, Compilation=1
+ok   期末__2021期末-带答案__chap 7 解析.json                       items=6    Compilation=5, System IO=1
+ok   期末__2021期末-带答案__chap 8 解析.json                       items=4    System IO=4
+ok   期末__2021期末-带答案__chap 9 解析.json                       items=10   Dynamic Memory=9, System IO=1
+ok   期末__2021期末-带答案__chap 9 题目.json                       items=11   Dynamic Memory=10, System IO=1
+ok   期末__2021期末-无答案.json                                  items=28   Compilation=5, System IO=5, Dynamic Memory=5, Processor Arch=4, Network=3, Memory Hierarc=2, Synchronizatio=2, Data Represent=1, Machine Prog=1
+ok   期末__2022期末-无答案.json                                  items=43   Network=12, Compilation=7, Dynamic Memory=6, Processor Arch=6, System IO=5, Synchronizatio=4, Machine Prog=2, Data Represent=1
+ok   期末__2022期末-答案.json                                   items=21   Compilation=4, Dynamic Memory=4, Processor Arch=3, System IO=3, Network=3, Synchronizatio=3, Machine Prog=1
+ok   期末__2024期末-带答案.json                                  items=23   System IO=5, Processor Arch=4, Dynamic Memory=4, Synchronizatio=3, Memory Hierarc=2, Compilation=2, Network=2, Data Represent=1
+ok   期末__2025期末-带答案.json                                  items=31   System IO=6, Data Represent=4, Memory Hierarc=4, Compilation=4, Synchronizatio=4, Machine Prog=3, Dynamic Memory=3, Processor Arch=2, Network=1
+ok   期末__2025期末-无答案.json                                  items=31   System IO=6, Data Represent=4, Memory Hierarc=4, Compilation=4, Synchronizatio=4, Machine Prog=3, Dynamic Memory=3, Processor Arch=2, Network=1
+ok   期末__期末往年题勘误、详解 by Arthals.json                       items=36   Dynamic Memory=8, Synchronizatio=8, Compilation=7, System IO=4, Network=3, Data Represent=2, Processor Arch=2, Machine Prog=1, Memory Hierarc=1
+ok   阶段测验__2025第1次阶段测验-带答案.json                           items=24   Machine Prog=17, Data Represent=7
+ok   阶段测验__2025第2次阶段测验-带答案.json                           items=24   Processor Arch=10, Memory Hierarc=8, Compilation=3, System IO=3
+
+共 42 个文件，0 个不合格

@@ -1,0 +1,203 @@
+{
+  "file": "期末/2017期末-无答案.md",
+  "total_lines": 575,
+  "items": [
+    {
+      "start": 57,
+      "end": 59,
+      "module": "Machine Prog",
+      "qno": "第一题 1",
+      "note": "gdb 单步进入被调函数（si/ni）"
+    },
+    {
+      "start": 60,
+      "end": 62,
+      "module": "Data Representation",
+      "qno": "第一题 2",
+      "note": "浮点阶码不采用补码的原因"
+    },
+    {
+      "start": 63,
+      "end": 67,
+      "module": "Machine Prog",
+      "qno": "第一题 3",
+      "note": "指令长度、test 与 cmp 等价、跳转表"
+    },
+    {
+      "start": 68,
+      "end": 72,
+      "module": "Processor Arch",
+      "qno": "第一题 4",
+      "note": "由执行步骤识别 Y86 指令"
+    },
+    {
+      "start": 77,
+      "end": 82,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 5",
+      "note": "四路组相联 cache 每路的行数推导"
+    },
+    {
+      "start": 83,
+      "end": 91,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 6",
+      "note": "由磁盘几何参数计算标称容量"
+    },
+    {
+      "start": 92,
+      "end": 107,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 7",
+      "note": "跨文件符号类型不一致的链接结果"
+    },
+    {
+      "start": 108,
+      "end": 112,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 8",
+      "note": "符号解析规则与静态库链接"
+    },
+    {
+      "start": 117,
+      "end": 129,
+      "module": "ECF and System IO",
+      "qno": "第一题 9",
+      "note": "嵌套 fork 的输出顺序可能性"
+    },
+    {
+      "start": 130,
+      "end": 135,
+      "module": "ECF and System IO",
+      "qno": "第一题 10",
+      "note": "信号语义、signal 与 SIGSTOP/SIGKILL"
+    },
+    {
+      "start": 136,
+      "end": 140,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 11",
+      "note": "显式/隐式分配器的能力与效率"
+    },
+    {
+      "start": 141,
+      "end": 146,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 12",
+      "note": "空闲链表搜索与合并策略、二叉树结构"
+    },
+    {
+      "start": 151,
+      "end": 155,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 13",
+      "note": "虚拟内存缺页代价、fork 与地址空间隔离"
+    },
+    {
+      "start": 156,
+      "end": 164,
+      "module": "ECF and System IO",
+      "qno": "第一题 14",
+      "note": "dup/RIO/fork 与打开文件表的关系"
+    },
+    {
+      "start": 165,
+      "end": 184,
+      "module": "ECF and System IO",
+      "qno": "第一题 15",
+      "note": "dup/dup2/O_APPEND 组合后的文件内容"
+    },
+    {
+      "start": 189,
+      "end": 195,
+      "module": "Network",
+      "qno": "第一题 16",
+      "note": "本地端口、私有 IP 与服务器端口"
+    },
+    {
+      "start": 196,
+      "end": 201,
+      "module": "Network",
+      "qno": "第一题 17",
+      "note": "交换机/HUB、UDP 实时音视频、校验"
+    },
+    {
+      "start": 202,
+      "end": 208,
+      "module": "Network",
+      "qno": "第一题 18",
+      "note": "localhost、套接字地址与 IPv4/IPv6"
+    },
+    {
+      "start": 209,
+      "end": 215,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 19",
+      "note": "死锁定义、信号量顺序与线程安全"
+    },
+    {
+      "start": 220,
+      "end": 221,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 20",
+      "note": "主线程与线程1交错执行的输出种类"
+    },
+    {
+      "start": 227,
+      "end": 278,
+      "module": "Machine Prog",
+      "qno": "第二题 1",
+      "note": "结构体偏移与浮点汇编代码填空"
+    },
+    {
+      "start": 279,
+      "end": 287,
+      "module": "Data Representation",
+      "qno": "第二题 2",
+      "note": "浮点位模式、对齐与比较运算的七行输出"
+    },
+    {
+      "start": 293,
+      "end": 315,
+      "module": "Processor Arch",
+      "qno": "第三题",
+      "note": "两级/三级流水线插入寄存器与最大吞吐率"
+    },
+    {
+      "start": 321,
+      "end": 348,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第四题",
+      "note": "强弱符号多重定义与链接成功原因（兼 GC 根指针）"
+    },
+    {
+      "start": 354,
+      "end": 408,
+      "module": "ECF and System IO",
+      "qno": "第五题",
+      "note": "fork/信号/sleep 与文件读取的输出行数及内容"
+    },
+    {
+      "start": 414,
+      "end": 480,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第六题",
+      "note": "TLB 与页表一致性、invlpg、TLB miss 与缺页"
+    },
+    {
+      "start": 486,
+      "end": 517,
+      "module": "Network",
+      "qno": "第七题",
+      "note": "Echo 客户端/服务器流程填空与协议判断"
+    },
+    {
+      "start": 524,
+      "end": 575,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第八题",
+      "note": "并发 echo 服务器 P/T 代码找错与信号量同步"
+    }
+  ],
+  "answer_sections": []
+}

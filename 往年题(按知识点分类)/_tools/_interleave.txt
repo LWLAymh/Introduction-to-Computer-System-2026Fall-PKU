@@ -1,0 +1,370 @@
+交错坏行统计（按坏行数降序）
+
+文件                                                 坏行     总行  涉及页
+----------------------------------------------------------------------------------------------------
+期中/2014期中-带答案.md                                   32    727  2,13
+期末/2018期末-带答案.md                                   27    920  10,11,19,28,29
+期中/2021期中-带答案.md                                   27    723  11,12,13,14,15,18,24
+期中/2020期中-带答案.md                                   25    471  6,7,9,10,11,12,15
+Lab测验/2025Lab测验-无答案.md                             23    875  5,10,12,13,14,16
+期中/2021期中-无答案.md                                   20    527  9,10,11,12,15
+期末/2016期末-带答案.md                                   18    816  4,6,15,18,20,24
+期末/2014期末-带答案.md                                   16    847  10,17,19
+期末/2016期末-无答案.md                                   15    652  5,7,12,13,15,17,21
+期中/2020期中-无答案.md                                   14    333  6,7,9,10
+期末/2020期末-无答案.md                                   11    628  10
+期末/2015期末-20160104-带答案.md                          11    771  2,6,7,16,19,20
+期中/2019期中-带答案.md                                   10    669  2,8,10,12,13,14
+期中/2013期中-带答案.md                                   10    468  1,5,6,7,8,9
+期末/2017期末-无答案.md                                    9    575  8,9,11,13,16,17
+期末/2015期末-20151109-带答案.md                           9    544  4,11,13,19,20
+期中/2015期中-带答案.md                                    9    544  4,11,13,19,20
+期中/2022期中-无答案.md                                    7    417  2,8,9,14
+期末/2019期末-无答案.md                                    6    573  10
+期中/2023期中-带答案.md                                    6    641  2,8,16,17,19
+阶段测验/2025第1次阶段测验-无答案.md                             5    246  2,4,5,6,9
+期末/2015期末-20160104-无答案.md                           5    604  5,7
+期中/2023期中-无答案.md                                    5    489  2,7,12,13,14
+期中/2022期中-带答案.md                                    5    653  2,3,10,18
+期中/2016期中-带答案.md                                    5    466  5,10,11
+期末/2025期末-无答案.md                                    4    596  2,3,14
+期末/2021期末-无答案.md                                    4    807  11,13
+期末/2021期末-带答案/chap 7 解析.md                          4    293  0
+期末/2019、2020期末-答案解析.md                              4    276  4,7
+阶段测验/2025第1次阶段测验-带答案.md                             3    249  2,4,5
+阶段测验/2025第2次阶段测验-无答案.md                             2    281  8
+阶段测验/2025第2次阶段测验-带答案.md                             2    341  9
+期末/2024期末-无答案.md                                    2    846  2,24
+期末/2022期末-无答案.md                                    2    773  8,9
+期中/2024期中-带答案.md                                    2    656  14,16
+期中/2012期中-带答案.md                                    2    720  1,10
+期末/2025期末-带答案.md                                    1    201  1
+期末/2024期末-带答案.md                                    1   1115  2
+期末/2013期末-带答案.md                                    1    684  12
+期中/2024期中-无答案.md                                    1    455  11
+期中/2018期中-带答案.md                                    1    618  12
+期中/2017期中-带答案.md                                    1    405  8
+
+====================================================================================================
+严重文件（坏行 >= 8）的坏行明细
+====================================================================================================
+
+### 期中/2014期中-带答案.md   （32 坏行 / 727 行）
+  p2   L51    C 正确 相等关系；~y + y == 0xFFFFFFFF 是 -1 的补码表示
+  p2   L59    C. 1000, 1111, 1110, 1111, 1100, 0000, 0000, 0000 表示唯一的整数是 0x8FEFC000
+  p2   L60    D. 1000, 1111, 1110, 1111, 1100, 0000, 0000, 0000 如果是单精度浮点表示，则表示的是-(1. 110111111)<sub>b<
+  p13  L462   （图：栈内容填写表，左列为栈地址（0x7ffffffe38c 到 0x7ffffffe320，每 4 字节一行），右列为对应内容（红色为答案））
+  p13  L466   | 0x7ffffffe38c | X |
+  p13  L467   | 0x7ffffffe388 | X |
+  p13  L468   | 0x7ffffffe384 | X |
+  p13  L469   | 0x7ffffffe380 | X |
+  p13  L470   | 0x7ffffffe37c | X |
+  p13  L471   | 0x7ffffffe378 | X |
+  p13  L472   | 0x7ffffffe374 | 0x0 |
+  p13  L473   | 0x7ffffffe370 | 0x00400505 |
+  p13  L474   | 0x7ffffffe36c | 0x0 |
+  p13  L475   | 0x7ffffffe368 | 0x4 |
+  p13  L476   | 0x7ffffffe364 | 0x0 |
+  p13  L477   | 0x7ffffffe360 | 0x3 |
+  p13  L478   | 0x7ffffffe35c | 0x0 |
+  p13  L479   | 0x7ffffffe358 | 0x00400505 |
+  p13  L480   | 0x7ffffffe354 | 0x0 |
+  p13  L481   | 0x7ffffffe350 | 0x3 |
+  p13  L482   | 0x7ffffffe34c | 0x0 |
+  p13  L483   | 0x7ffffffe348 | 0x3 |
+  p13  L484   | 0x7ffffffe344 | 0x0 |
+  p13  L485   | 0x7ffffffe340 | 0x00400505 |
+  p13  L486   | 0x7ffffffe33c | 0x0 |
+  p13  L487   | 0x7ffffffe338 | 0x2 |
+  p13  L488   | 0x7ffffffe334 | 0x0 |
+  p13  L489   | 0x7ffffffe330 | 0x3 |
+  p13  L490   | 0x7ffffffe32c | X |
+  p13  L491   | 0x7ffffffe328 | X |
+  p13  L492   | 0x7ffffffe324 | X |
+  p13  L493   | 0x7ffffffe320 | X |
+
+### 期末/2018期末-带答案.md   （27 坏行 / 920 行）
+  p10  L321   foo  是  全局  foo.o  .text
+  p10  L323   cnt  是  局部  foo.o  .bss
+  p10  L326   0000000000......<main>:  0000000000000fe8 <main>:
+  p11  L333   b8 00 00 00 00      mov      $0x0,%eax  fec:  b8 00 00 00 00      mov    $0x0,%eax
+  p11  L334   e8 00 00 00 00      callq   e <main+0xe>           ①  ff1:  e8       ①            callq 
+  p11  L335   b8 00 00 00 00      mov      $0x0,%eax  ff6:  b8 00 00 00 00      mov    $0x0,%eax
+  p11  L339   0000000000......<foo>:  0000000000001000 <foo>:
+  p11  L345   48 8b 05 00 00 00 00 mov      0x0(%rip),%rax       ④  100f:  48 8b
+  p19  L585   5  0x0000A  0x29DEE000  1
+  p19  L590   00023000  E0  00023001  BE  00023002  EF  00023003  BE
+  p19  L594   0005545C  97  0005545D  C2  0005545E  7B  0005545F  45
+  p28  L823   00400000 r-xp 00000000  fc:02   20   20  20         0 echoserveri
+  p28  L824   00604000 r--p 00004000  fc:02    4    4   4         4 echoserveri
+  p28  L825   00605000 rw-p 00005000  fc:02    4    4   4         4 echoserveri
+  p28  L827   7f56da7af000 r-xp 00000000  fc:00 1792 1220  11         0 libc-2.23.so
+  p28  L831   7f56dab75000 rw-p 00000000  00:00   16   16  16        16
+  p28  L836   7f56dad92000 rw-p 00000000  00:00   16    4   4         4
+  p28  L837   7f56dad96000 r-xp 00000000  fc:00  152  152   1         0     (2)
+  p28  L838   7f56dafac000 rw-p 00000000  00:00   16   16  16        16
+  p28  L839   7f56dafbb000 r--p 00025000  fc:00    4    4   4         4     (2)
+  p28  L840   7f56dafbc000 rw-p 00026000  fc:00    4    4   4         4     (2)
+  p28  L841   7f56dafbd000 rw-p 00000000  00:00    4    4   4         4
+  p28  L842   7ffd382f8000  (3)  00000000   (4)   132   24  24        24 [stack]
+  p28  L843   7ffd38364000 r--p 00000000  00:00   12    0   0         0 [vvar]
+  p29  L848   7ffd38367000 r-xp 00000000  00:00    8    4   0         0 [vdso]
+  p29  L849   ffffffffff600000 r-xp 00000000  00:00    4    0   0         0 [vsyscall]
+  p29  L864   间的RSS仍为30页。根据上述定义，可以做出如下判断：VSS >= RSS >= PSS。
+
+### 期中/2021期中-带答案.md   （27 坏行 / 723 行）
+  p11  L305   别为[1010 1100]2和[1111 1011]2.又假设x是一个short类型的变量,其
+  p12  L341   (9)是  (10)0x00ffffff
+  p12  L356   案为(9)是,(10)0x00ffffff.
+  p13  L372   555111555159:::    444888   888399   e77cd5   2ee080                                 smm
+  p13  L373   555111566d24:::    474848   8_83_3（  775dd）  ee_80_   00  01                        ccjm
+  p14  L379   555551111177777158bd:::::      4847483848     8e8?8b05?b      40c5 5105        ee    00 
+  p14  L380   555511118888147a::::     44448888    8008911d    dcd50000       0   1                   
+  p14  L381   55555511111189999a9e26c1::::::       4444e4888888      8888a8b39989      4edcf45867f5   
+  p14  L383   55551111bbbc59d0::::     44448888    8888b399    4edc5867      e0  81                   
+  p14  L384   5555511111dcccd138c0:::::      e44cc88893       888  19b       f44    f55       fff  f00
+  p15  L392   0x7fffffffe558  0x00005555555551c8
+  p15  L393   0x7fffffffe550  （11）______
+  p15  L394   0x7fffffffe548  U
+  p15  L395   0x7fffffffe540  U
+  p15  L396   0x7fffffffe538  U
+  p15  L397   0x7fffffffe530  （12）______
+  p15  L398   0x7fffffffe528  （13）______
+  p15  L399   0x7fffffffe520  0x00007fffffffe550
+  p15  L400   0x7fffffffe518  U
+  p15  L401   0x7fffffffe510  U
+  p15  L402   0x7fffffffe508  （14）______
+  p15  L403   0x7fffffffe500  0x0000000000000010
+  p15  L404   0x7fffffffe4f8  0x00005555555551c8
+  p15  L417   （11）0x00007fffffffe580
+  p18  L484   aaddddqq  %%rrddxx,,  %%rrddxx                          ##  lliinnee  23
+  p18  L486   aadnddqq  %%rrddxi,,  %%rrcdxi                          ##  lliinnee  67
+  p24  L661   vaddss   (%rdx), %xmm0, %xmm0
+
+### 期中/2020期中-带答案.md   （25 坏行 / 471 行）
+  p6   L202   test.s.y = 0x3ff00000;
+  p7   L219   iinntt  ab  ==  3a3 5+5 454; 42; // 2^25+10
+  p9   L271   55551111bbbb7b4f::::    44448888    8888399b    e7e4cd55     1ff 088                m_mm
+  p9   L274   555111ddd69e:::   4e4888   8a89bb   cf47f5    ff f8     f  f   m moovv c   a  l  l%-qr0 
+  p10  L287   0x7fffffffe308  0xffffe340
+  p10  L288   0x7fffffffe304  0x00000000
+  p10  L289   0x7fffffffe300  0x00000000
+  p10  L290   0x7fffffffe2fc  0x00005555
+  p10  L291   0x7fffffffe2f8  （12）_________
+  p10  L292   0x7fffffffe2f4  0x00007fff
+  p10  L293   0x7fffffffe2f0  0xffffe310
+  p10  L294   0x7fffffffe2ec  0x00007fff
+  p10  L295   0x7fffffffe2e8  0xffffe340
+  p10  L296   0x7fffffffe2e4  0x00000004
+  p10  L297   0x7fffffffe2e0  0xffffe350
+  p10  L298   0x7fffffffe2dc  0x00005555
+  p10  L299   0x7fffffffe2d8  （13）_________
+  p10  L300   0x7fffffffe2d4  0x00007fff
+  p10  L301   0x7fffffffe2d0  （14）_________
+  p10  L315   （11）0x00005555555551af < foo >  （只写数值或者<foo>，都算正确）
+  p11  L347   设置的。上一次函数调用保存的返回地址在0x7fffffffe2f8，所以上一次rbp的
+  p11  L348   值是0x7fffffffe2f0
+  p12  L370   写回  RR[[%%rrsbpp]]    VVaallEM
+  p15  L424   R     0 [0000002],  v Tag Block
+  p15  L426   W    7 [0001112],   Set 1 0110 01? MM[[?08--19]]
+
+### Lab测验/2025Lab测验-无答案.md   （23 坏行 / 875 行）
+  p5   L132   置为 0xFFFFFFFF，否则为 0。下面哪一个选项正确给出了 overflow 的表达式(提
+  p5   L140   *   Examples: satMul2(0x30000000) = 0x60000000
+  p5   L141   *             satMul2(0x40000000) = 0x7FFFFFFF (saturate to TMax)
+  p5   L142   *             satMul2(0x90000000) = 0x80000000 (saturate to TMin)
+  p10  L305   00000000000027bc <phase_2>:
+  p12  L382   187f:  b8 00 00 00 00        mov    $0x0,%eax
+  p13  L388   1889:  05 99 02 00 00        add    $0x299,%eax
+  p13  L407   18d4:  b8 00 00 00 00        mov    $0x0,%eax
+  p13  L409   18db:  b8 00 00 00 00        mov    $0x0,%eax
+  p13  L411   18e2:  b8 00 00 00 00        mov    $0x0,%eax
+  p13  L413   18e9:  b8 00 00 00 00        mov    $0x0,%eax
+  p13  L415   18f0:  b8 00 00 00 00        mov    $0x0,%eax
+  p13  L417   18f7:  b8 00 00 00 00        mov    $0x0,%eax
+  p13  L420   1903:  b8 00 00 00 00        mov    $0x0,%eax
+  p14  L428   4320 add5ffff 5fd5ffff b4d5ffff bbd5ffff  ...._...........
+  p14  L429   4330 c2d5ffff c9d5ffff d0d5ffff d7d5ffff  ................
+  p14  L432   rbx            0x55555555e6a0    93824992274080
+  p14  L436   rdi            0x7fffffffd3c0    140737488344000
+  p14  L437   rbp            0x7fffffffdae0    0x7fffffffdae0
+  p14  L438   rsp            0x7fffffffda20    0x7fffffffda20
+  p14  L439   r8             0xffffffff         4294967295
+  p14  L447   rip            0x5555555558ad    0x5555555558ad <phase_3+132>
+  p16  L500   0000000000401cb2 <getbuf>:
+
+### 期中/2021期中-无答案.md   （20 坏行 / 527 行）
+  p9   L254   别为[1010 1100]2和[1111 1011]2.又假设x是一个short类型的变量,其
+  p10  L301   555111555159:::    444888   888399   e77cd5   2ee080                                 smm
+  p11  L309   555511118888147a::::     44448888    8008911d    dcd50000       0   1                   
+  p11  L312   55551111bbbc59d0::::     44448888    8888b399    4edc5867      e0  81                   
+  p11  L313   5555511111cccdd38c01:::::      e44cc88893       888  19b       f44    f55       fff  f00
+  p12  L320   应的值。（U0x表7示ff不ff要f求ff填e5写5）8   0x00005555555551c8
+  p12  L321   0x7fffffffe550  （11）______
+  p12  L322   0x7fffffffe548  U
+  p12  L323   0x7fffffffe540  U
+  p12  L324   0x7fffffffe538  U
+  p12  L325   0x7fffffffe530  （12）______
+  p12  L326   0x7fffffffe528  （13）______
+  p12  L327   0x7fffffffe520  0x00007fffffffe550
+  p12  L328   0x7fffffffe518  U
+  p12  L329   0x7fffffffe510  U
+  p12  L330   0x7fffffffe508  （14）______
+  p12  L331   0x7fffffffe500  0x0000000000000010
+  p12  L332   0x7fffffffe4f8  0x00005555555551c8
+  p15  L395   aaddddqq  %%rrddxx,,  %%rrddxx                          ##  lliinnee  23
+  p15  L397   aadnddqq  %%rrddxi,,  %%rrcdxi                          ##  lliinnee  67
+
+### 期末/2016期末-带答案.md   （18 坏行 / 816 行）
+  p4   L115   0000  0100  00100100  hmiits s
+  p4   L116   1100  1000  00001000  mmiissss
+  p4   L117   1011  0000  00000000  mmiissss
+  p4   L137   iinntt  aa12  ;=  2 ;  i{n t main()
+  p6   L192   14. 考ch虑ar以 *下st代r1码 =， "假66设66"r;e sult.txt中的初始内容为“666666”
+  p6   L193   cchhaarr  **ssttrr23  ==  ""2h3h3h3h"";;
+  p6   L195   ffdd12  ==  ooppeenn((""rreessuulltt..ttxxtt"",,  OO__RRDDWWRR));;
+  p6   L198   wwrriittee((ffdd12,,  ssttrr12,,  44));;
+  p15  L488   （FFBB1FFGD分DG）EE  3个，全对才得分
+  p18  L567   ###iiinnncccllluuudddeee   <<<fuccntniytsplte.d.h.h>h>>
+  p18  L568   ###iiinnncccllluuudddeee   <<<sssyyysss///tsmytmpaaetns...hhh>>>
+  p18  L569   ## iinncclluuddee  <"scyssa/pwpa.iht". h>
+  p18  L577   e lsecc ssi[[fii ]](  i==s  u((pccphheaarrr())c  stt[ooiul]po)pw)ee rr((ccss[[ii]]));;
+  p18  L579   MCCullnoomssaeep(((ffcdds12,)) ;;s  z);
+  p20  L620   00400000-00405000 r-xp           /home/tao/i16/i16
+  p20  L627   7f5df2226000-7f5df222a000 rw-p
+  p20  L638   ffffffffff600000-ffffffffff601000 r-xp  [vsyscall]
+  p24  L755   PPPttthhhrrreeeaaaddd___ccjrroeeiaantt(eet((i&&dtt1ii,dd 12N,,U  LNNLUU)LL;LL ,,  tthhrr
+
+### 期末/2014期末-带答案.md   （16 坏行 / 847 行）
+  p10  L330   000xxx101088,,,   000xxx989088,,,   000xxx545088,,,   000xxxdcd088,,,   000xxx323088,,, 
+  p10  L331   00xx0144,,  00xx8944,,  00xx4544,,  00xxcd44,,  00xx2344,,  00xxab44,,  00xx6744,,  00xx
+  p10  L332   00xx01cc,,  00xx89cc,,  00xx45cc,,  00xxcdcc,,  00xx23cc,,  00xxabcc,,  00xx67cc,,  00xx
+  p10  L335   000xxx101a66,,,   000xxx989a66,,,   000xxx545a66,,,   000xxxdcda66,,,   000xxx323a66,,, 
+  p10  L336   00xx01ee,,  00xx89ee,,  00xx45ee,,  00xxcdee,,  00xx32ee,,  00xxbaee,,  00xx76ee,,  00xx
+  p10  L337   00xx0111,,  00xx8911,,  00xx4511,,  00xxcd11,,  00xx2311,,  00xxab11,,  00xx6711,,  00xx
+  p10  L338   00xx0199,,  00xx8999,,  00xx4599,,  00xxcd99,,  00xx2399,,  00xxab99,,  00xx6799,,  00xx
+  p10  L339   00xx0155,,  00xx8955,,  00xx4555,,  00xxcd55,,  00xx2355,,  00xxab55,,  00xx6755,,  00xx
+  p10  L340   00xx01dd,,  00xx89dd,,  00xx45dd,,  00xxcddd,,  00xx23dd,,  00xxabdd,,  00xx67dd,,  00xx
+  p10  L341   00xx0133,,  00xx8933,,  00xx4533,,  00xxcd33,,  00xx2333,,  00xxab33,,  00xx6733,,  00xx
+  p10  L343   000xxx101b77,,,   000xxx9987b7,,,   000xxx5547b7,,,   000xxxddc7b7,,,   000xxx3327b7,,, 
+  p17  L545   00023000  E0  00023001  BE   00023002  EF  00023003  BE
+  p17  L549   00023FF8  29  00023FF9  FF  00023FFA  DE  00023FFB  BC
+  p17  L551   0005545C  97  0005545D  C2  0005545E  7B  0005545F  45
+  p19  L611   ##iinncclluuddee  <<ssttddiloi.bh.>h>
+  p19  L612   ##iinncclluuddee  <<fucnnitslt.dh.>h>
+
+### 期末/2016期末-无答案.md   （15 坏行 / 652 行）
+  p5   L171   14. 考虑以下代码，假设result.txt中的初始内容为“666666”
+  p7   L267   maaoddvddlll   (%%%eeedbcipx,,)  ,%% ee%bbepxb  p
+  p7   L270   ppmoooppvlll   %%%eeebsbpix  , %eax
+  p7   L271   pprooepptll   %%eebcxx
+  p12  L368   }i f(ccnntt=-==01);
+  p12  L369   e lse p p rriinnttff((""GE""));;
+  p13  L383   iiinnnttt   eccvooeuunnn tt=ee rr012;   ==  01;;
+  p13  L393   ssiiggnnaall((SSIIGGUUSSRR12,,  hhaannddlleerr12));;
+  p15  L420   ##iinncclluuddee  <<fucnnitslt.dh.>h>
+  p15  L422   ###iiinnncccllluuudddeee   <<<sssyyysss///tsmytmpaaetns...hhh>>>
+  p15  L423   ##iinncclluuddee  <"scyssa/pwpa.iht". h>
+  p17  L473   00400000-00405000 r-xp           /home/tao/i16/i16
+  p17  L480   7f5df2226000-7f5df222a000 rw-p
+  p17  L491   ffffffffff600000-ffffffffff601000 r-xp  [vsyscall]
+  p21  L612   PPPttthhhrrreeeaaaddd___ccjrroeeiaantt(eet((i&&dtt1ii,dd 12N,,U  LNNLUU)LL;LL ,,  tthhrr
+
+### 期中/2020期中-无答案.md   （14 坏行 / 333 行）
+  p6   L193   test.s.y = 0x3ff00000;
+  p7   L204   tt ee ss此tt..时ss ..xy  ==  ________________________
+  p9   L242   5555511111bbbbb7b43f:::::     4445488858      8888 399b      e7e4 cd5 5       1ff  088  
+  p9   L245   555111ddd69e:::   4e4888   8a89bb   cf47f5    ff f8     f  f   m moovv c   a  l  %l-qr0 
+  p9   L250   555111fffcdb:::   cc9930                                             lrneeoatpvq  eq
+  p10  L258   00xx77ffffffffffffffee330084   00xxf0f0f0f0e0304000
+  p10  L259   0x7fffffffe300  0x00000000
+  p10  L260   00xx77ffffffffffffffee22ffc8   0（x1020）00_5_5_5_5_ ____
+  p10  L261   0x7fffffffe2f4  0x00007fff
+  p10  L262   00xx77ffffffffffffffee22fe0c   00xxf0f0f0f0e73f1f0f
+  p10  L263   00xx77ffffffffffffffee22ee84   00xxf0f0f0f0e0304004
+  p10  L264   0x7fffffffe2e0  0xffffe350
+  p10  L265   00xx77ffffffffffffffee22ddc8   0（x1030）00_5_5_5_5_ ____
+  p10  L266   00xx77ffffffffffffffee22dd40   0（x1040）00_7_f_f_f_ ____
+
+### 期末/2020期末-无答案.md   （11 坏行 / 628 行）
+  p10  L325   0000000000......<main>:  0000000000001000 <main>:
+  p10  L328   b8 00 00 00 00           mov    $0x0,%eax  1004: b8 00 00 00 00       mov   $0x0,%eax
+  p10  L335   e8 00 00 00 00           callq  26 <main+0x26>  ③  101c: b8 00 00 00 00       mov    $0x
+  p10  L337   b8 00 00 00 00           mov    $0x0,%eax  ......
+  p10  L341   0000000000......<myswap>:
+  p10  L342   55                   push   %rbp  00000000000010e4<myswap>:
+  p10  L350   48 8b 05 00 00 00 00  mov    0x0(%rip),%rax    ⑥  ......
+  p10  L354   48 8b 05 00 00 00 00 mov    0x0(%rip),%rax     ⑦  ......
+  p10  L362   8b 05 00 00 00 00     mov    0x0(%rip),%eax     ⑩  ......
+  p10  L378   0000000000dedd38 <count.1837>:
+  p10  L380   0000000000dedd40 <bufp0>:
+
+### 期末/2015期末-20160104-带答案.md   （11 坏行 / 771 行）
+  p2   L56    ABC...   000xxx444121e5decc000000000000
+  p2   L60    ABC...  mmmooovvvlll      $($3%24e3,a, x   )(1,%0 e( a%%xee)ad xx , %eax)
+  p6   L177   A.  233lol233hhhh
+  p6   L178   B.  lol233hhhh2233
+  p6   L179   C.  233lol2233hhhh
+  p6   L180   D.  2lol33hhhh233
+  p7   L226   地址（Table）。十六进制逻辑地址8052CB转换为二进制后为10 0000000101
+  p7   L229   制111和Offset的拼合，即111001011001011，转换为十进制为29387，答
+  p16  L466   pprriinnttff((f"o%ol(lnx)\)n;",  a);
+  p19  L527   ###iiinnncccllluuudddeee   <<<ssuttnddiilsoit.bdh..>hh>>
+  p20  L551   SSS2S2P2SSP222PPPP
+
+### 期中/2019期中-带答案.md   （10 坏行 / 669 行）
+  p2   L67    A. 0x00ffffff   0x0038a8c0
+  p2   L68    B. 0x00ffffff   0x00838a0c
+  p2   L69    C. 0xffffff00   0xc0a83800
+  p2   L70    D. 0xffffff00   0x0c8a8300
+  p2   L74    去，可以把它与0x00ffffff进行按位与运算，这样会把高8位全部置为0，而
+  p8   L276   0x80000000  v-a0 lues
+  p10  L299   00000000004006cd <caller>:
+  p12  L394   00000000004006cd <caller>:
+  p13  L434   400747: e8 _ (7) _           callq    400666 <callee>     (7) _1a ff ff ff__ _
+  p14  L468   _(11)_;                         (11)___return____
+
+### 期中/2013期中-带答案.md   （10 坏行 / 468 行）
+  p1   L25    unsigned y = 0x00000001;
+  p5   L197   1 (-1) x 1.1 x 20  0xBFC00000
+  p6   L232   44000044ff15::       mmoovv        --00xx180(%(%rbrpbp),)%,%rdrxax
+  p7   L266   4004e8:    movl   $0x40000000,-0xc(%rbp)
+  p8   L292   444444000000000000444444ddcccc58cf35::::::                     ms jmau oob vv         cm
+  p8   L293   44444000000000044444dddee24acf:::::                  jmtjmensoept v          a  % n4 4d0
+  p8   L294   4444444000000000000004444444eeeffff58bd6cf:::::::                            m  ov  matj
+  p8   L295   44444400000000000045555500011ff58e14: :::::                    mamsmudooobdvvv          
+  p8   L296   4444440000000000005555551122226b14ad::::::                    cmlmlleeeaaaaool  vlvvq  e
+  p9   L313   {         ssttaattiicc  uunnssiiggnneedd  iinntt  xy  ==  ssiizzeeooff((PP21));;
+
+### 期末/2017期末-无答案.md   （9 坏行 / 575 行）
+  p8   L245   cchhaarr**  ab  ==  u(u->->aa.c.c[1 +]  +1) 1[1; ];    m…o…vb   %al, -2(%rbp)
+  p9   L276   proc3(&u);  //十六进制 3FD00000
+  p11  L332   ssttaattiicc  nnooddee *p oflryegeo_np t[rN ];;
+  p11  L334   vvvoooiiiddd   sgiwcne(ie)tp (({)).  .{{...}.. ..}}
+  p13  L357   ##iinncclluuddee  <<sutndilsitbd..hh>>
+  p13  L360   ii nntt  ccoouunntteerr12  ==  11;;
+  p13  L362   iiff  ((ssiigg  ====  SSIIGGUUSSRR12))          ccoouunntteerr12++++;;
+  p16  L449   3. addq 0x11000, %rcx
+  p17  L480   基000xxx地111A88址021   为0x480   1000的 页表   页       基000xxx地111C48址D02   为0x481   2000的页表  
+
+### 期末/2015期末-20151109-带答案.md   （9 坏行 / 544 行）
+  p4   L127   scumbpll  $$488,,  %%eeaaxx   ..lloonngg  ..LL32
+  p4   L130   ...lllooonnnggg   ...LLL562
+  p11  L326   mmoovvll  8((%%eeabxp)),,%%eecax x
+  p11  L327   mmoovvll  4((%%eedcxx)),,%%eeddx x
+  p13  L372   iinntt  vv12==qq-->>tu;;
+  p13  L377   ammdoodvvlll   88%((e%%deexab,xp4))4,,(%%%eeedaaxxx)
+  p19  L514   1  101  Array[1][0]~  1  100  Array[0][0]~
+  p19  L516   1  110  Array[2][0]~  1  111  Array[3][0]~
+  p20  L537   1  100000  Array[0][0]~ Array[0][3]
+
+### 期中/2015期中-带答案.md   （9 坏行 / 544 行）
+  p4   L127   scumbpll  $$488,,  %%eeaaxx   ..lloonngg  ..LL32
+  p4   L130   ...lllooonnnggg   ...LLL562
+  p11  L326   mmoovvll  8((%%eeabxp)),,%%eecax x
+  p11  L327   mmoovvll  4((%%eedcxx)),,%%eeddx x
+  p13  L372   iinntt  vv12==qq-->>tu;;
+  p13  L377   ammdoodvvlll   88%((e%%deexab,xp4))4,,(%%%eeedaaxxx)
+  p19  L514   1  101  Array[1][0]~  1  100  Array[0][0]~
+  p19  L516   1  110  Array[2][0]~  1  111  Array[3][0]~
+  p20  L537   1  100000  Array[0][0]~ Array[0][3]

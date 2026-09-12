@@ -1,0 +1,231 @@
+{
+  "file": "期末/2020期末-无答案.md",
+  "total_lines": 628,
+  "items": [
+    {
+      "start": 51,
+      "end": 60,
+      "module": "Machine Prog",
+      "qno": "第一题 1",
+      "note": "x86-64/Y86 汇编、栈帧与跳转表"
+    },
+    {
+      "start": 61,
+      "end": 75,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 2",
+      "note": "组索引位位置不同的两个直接映射缓存"
+    },
+    {
+      "start": 80,
+      "end": 89,
+      "module": "Data Representation",
+      "qno": "第一题 3",
+      "note": "补码与无符号运算的恒等式"
+    },
+    {
+      "start": 90,
+      "end": 91,
+      "module": "Data Representation",
+      "qno": "第一题 4",
+      "note": "类型转换的溢出与舍入"
+    },
+    {
+      "start": 92,
+      "end": 97,
+      "module": "Processor Arch",
+      "qno": "第一题 5",
+      "note": "CISC 与 RISC 指令集特性"
+    },
+    {
+      "start": 98,
+      "end": 100,
+      "module": "Processor Arch",
+      "qno": "第一题 6",
+      "note": "Y86 rmovl 的 SEQ 数据通路"
+    },
+    {
+      "start": 101,
+      "end": 105,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 7",
+      "note": "链接、打桩、共享库与程序入口点"
+    },
+    {
+      "start": 110,
+      "end": 126,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 8",
+      "note": "跨文件符号类型冲突与链接结果"
+    },
+    {
+      "start": 127,
+      "end": 136,
+      "module": "ECF and System IO",
+      "qno": "第一题 9",
+      "note": "fork() && fork() 的进程数与输出"
+    },
+    {
+      "start": 137,
+      "end": 141,
+      "module": "ECF and System IO",
+      "qno": "第一题 10",
+      "note": "网络报文到达触发的异常类型"
+    },
+    {
+      "start": 142,
+      "end": 146,
+      "module": "ECF and System IO",
+      "qno": "第一题 11",
+      "note": "Ctrl+C 的 SIGINT 与前台进程组"
+    },
+    {
+      "start": 151,
+      "end": 155,
+      "module": "ECF and System IO",
+      "qno": "第一题 12",
+      "note": "缺页异常与系统调用的异同"
+    },
+    {
+      "start": 156,
+      "end": 160,
+      "module": "ECF and System IO",
+      "qno": "第一题 13",
+      "note": "并发流、/proc、execve 重定向与信号处理函数（兼 Concurrency）"
+    },
+    {
+      "start": 161,
+      "end": 166,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 14",
+      "note": "页大小 16KB 时四级页表可索引的地址位数"
+    },
+    {
+      "start": 167,
+      "end": 173,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 15",
+      "note": "三级页表映射 1MB 的页表内存开销"
+    },
+    {
+      "start": 174,
+      "end": 176,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 16",
+      "note": "多级页表所需层数"
+    },
+    {
+      "start": 177,
+      "end": 181,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 17",
+      "note": "页表项中由 MMU 设置、软件清除的位"
+    },
+    {
+      "start": 182,
+      "end": 186,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 18",
+      "note": "写时复制的适用场景"
+    },
+    {
+      "start": 191,
+      "end": 195,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 19",
+      "note": "垃圾收集器根节点的来源节"
+    },
+    {
+      "start": 196,
+      "end": 203,
+      "module": "Network",
+      "qno": "第一题 20",
+      "note": "套接字接口函数与迭代 echo 服务器阻塞"
+    },
+    {
+      "start": 204,
+      "end": 208,
+      "module": "Network",
+      "qno": "第一题 21",
+      "note": "IPv4 地址、字节序与主机名命令"
+    },
+    {
+      "start": 209,
+      "end": 214,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 22",
+      "note": "同进程内不同线程共享的资源"
+    },
+    {
+      "start": 215,
+      "end": 220,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 23",
+      "note": "指令重排以消除共享变量竞争"
+    },
+    {
+      "start": 225,
+      "end": 242,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 24",
+      "note": "主线程退出导致对等线程终止"
+    },
+    {
+      "start": 243,
+      "end": 256,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 25",
+      "note": "信号量执行轨迹中的死锁"
+    },
+    {
+      "start": 262,
+      "end": 268,
+      "module": "Processor Arch",
+      "qno": "第二题 1)",
+      "note": "五级流水线时钟周期与寄存器开销"
+    },
+    {
+      "start": 269,
+      "end": 277,
+      "module": "Processor Arch",
+      "qno": "第二题 2)",
+      "note": "Y86-64 代码在前递与分支预测下的周期数"
+    },
+    {
+      "start": 278,
+      "end": 287,
+      "module": "Memory Hierarchy",
+      "qno": "第二题 3)",
+      "note": "I-cache/D-cache 命中次数与总周期数"
+    },
+    {
+      "start": 292,
+      "end": 406,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第三题",
+      "note": "符号表条目、节归属与重定位引用值"
+    },
+    {
+      "start": 411,
+      "end": 448,
+      "module": "ECF and System IO",
+      "qno": "第四题",
+      "note": "signal/fork/dup/open 的输出与 counter"
+    },
+    {
+      "start": 453,
+      "end": 494,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第五题",
+      "note": "循环次序对缺页与 dTLB 失效的影响（兼 Memory Hierarchy）"
+    },
+    {
+      "start": 498,
+      "end": 627,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第六题",
+      "note": "圆桌信号量：死锁、加锁顺序与二元信号量实现"
+    }
+  ],
+  "answer_sections": []
+}

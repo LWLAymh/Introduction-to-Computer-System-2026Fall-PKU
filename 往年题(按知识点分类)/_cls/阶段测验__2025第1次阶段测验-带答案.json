@@ -1,0 +1,175 @@
+{
+  "file": "阶段测验/2025第1次阶段测验-带答案.md",
+  "total_lines": 249,
+  "items": [
+    {
+      "start": 51,
+      "end": 55,
+      "module": "Data Representation",
+      "qno": "第2讲 1",
+      "note": "二进制转十进制/十六进制、按位与、逻辑非"
+    },
+    {
+      "start": 56,
+      "end": 56,
+      "module": "Data Representation",
+      "qno": "第2讲 2",
+      "note": "-10 与 10U 比较，有符号转无符号"
+    },
+    {
+      "start": 57,
+      "end": 60,
+      "module": "Data Representation",
+      "qno": "第2讲 3",
+      "note": "short 转 int 符号扩展与首字节（字节序）"
+    },
+    {
+      "start": 62,
+      "end": 66,
+      "module": "Data Representation",
+      "qno": "第3讲 4",
+      "note": "IEEE 754 单精度编码结构、正无穷、按位段求值"
+    },
+    {
+      "start": 67,
+      "end": 68,
+      "module": "Data Representation",
+      "qno": "第3讲 5",
+      "note": "二进制小数向偶数舍入到三位"
+    },
+    {
+      "start": 69,
+      "end": 87,
+      "module": "Data Representation",
+      "qno": "第3讲 6",
+      "note": "float/double 运算的结合律与除法性质判断"
+    },
+    {
+      "start": 89,
+      "end": 90,
+      "module": "Machine Prog",
+      "qno": "第4讲 7",
+      "note": "通用寄存器低 32 位/最低字节的名称"
+    },
+    {
+      "start": 91,
+      "end": 96,
+      "module": "Machine Prog",
+      "qno": "第4讲 8",
+      "note": "swap 汇编中寄存器与内存访问次数统计"
+    },
+    {
+      "start": 97,
+      "end": 99,
+      "module": "Machine Prog",
+      "qno": "第4讲 9",
+      "note": "比例变址寻址方式地址计算"
+    },
+    {
+      "start": 101,
+      "end": 103,
+      "module": "Machine Prog",
+      "qno": "第5讲 10",
+      "note": "cmp/test 与 sub/and 的等价关系"
+    },
+    {
+      "start": 104,
+      "end": 117,
+      "module": "Machine Prog",
+      "qno": "第5讲 11",
+      "note": "cmp+set 指令补全汇编，movzbl 功能与高位清零"
+    },
+    {
+      "start": 118,
+      "end": 135,
+      "module": "Machine Prog",
+      "qno": "第5讲 12",
+      "note": "absdiff 分支实现与条件传送 cmov 实现对比"
+    },
+    {
+      "start": 136,
+      "end": 138,
+      "module": "Machine Prog",
+      "qno": "第5讲 13",
+      "note": "loopy 循环汇编补全对应 C 代码"
+    },
+    {
+      "start": 139,
+      "end": 145,
+      "module": "Machine Prog",
+      "qno": "第5讲 14",
+      "note": "跳转表 jmp *.L1(,%rdi,8) 的目标计算"
+    },
+    {
+      "start": 147,
+      "end": 150,
+      "module": "Machine Prog",
+      "qno": "第6讲 15",
+      "note": "popq 指令各步骤与 %rsp 变化"
+    },
+    {
+      "start": 151,
+      "end": 175,
+      "module": "Machine Prog",
+      "qno": "第6讲 16",
+      "note": "过程调用栈帧、callq/ret、参数寄存器与被调用者保存"
+    },
+    {
+      "start": 176,
+      "end": 191,
+      "module": "Machine Prog",
+      "qno": "第6讲 17",
+      "note": "取地址与解引用，变量存放于寄存器还是内存"
+    },
+    {
+      "start": 193,
+      "end": 199,
+      "module": "Machine Prog",
+      "qno": "第7讲 18",
+      "note": "二维数组 arr_data[x][y] 寻址补全汇编"
+    },
+    {
+      "start": 200,
+      "end": 201,
+      "module": "Machine Prog",
+      "qno": "第7讲 19",
+      "note": "变长二维数组 var_ele 的参数传递与寻址"
+    },
+    {
+      "start": 205,
+      "end": 205,
+      "module": "Machine Prog",
+      "qno": "第7讲 20",
+      "note": "汇编代码输出结果（原文 OCR 列错行，内容难辨）"
+    },
+    {
+      "start": 206,
+      "end": 214,
+      "module": "Machine Prog",
+      "qno": "第7讲 21",
+      "note": "数组循环 C 代码与汇编，求常量 A、B（OCR 错行）"
+    },
+    {
+      "start": 215,
+      "end": 218,
+      "module": "Machine Prog",
+      "qno": "第7讲 22",
+      "note": "浮点参数经 xmm 寄存器传递的汇编分析"
+    },
+    {
+      "start": 224,
+      "end": 234,
+      "module": "Data Representation",
+      "qno": "第8讲 23",
+      "note": "union 与大端字节序下的输出结果"
+    },
+    {
+      "start": 235,
+      "end": 248,
+      "module": "Machine Prog",
+      "qno": "第8讲 24",
+      "note": "缓冲区溢出攻击防御方法对比（兼 VM 保护机制）"
+    }
+  ],
+  "answer_sections": []
+}

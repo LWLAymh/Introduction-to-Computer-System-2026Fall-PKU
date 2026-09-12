@@ -1,0 +1,35 @@
+{
+  "file": "期中/2019期中-带答案.md",
+  "total_lines": 669,
+  "items": [
+    { "start": 55, "end": 75, "module": "Data Representation", "qno": "第一题 1", "note": "IPv4 地址的大端存放与掩码、字节序" },
+    { "start": 76, "end": 91, "module": "Data Representation", "qno": "第一题 2", "note": "移位与按位运算结果的补码大小比较" },
+    { "start": 92, "end": 110, "module": "Data Representation", "qno": "第一题 3", "note": "IEEE float 尾数精度，f+1-f 的舍入" },
+    { "start": 111, "end": 131, "module": "Machine Prog", "qno": "第一题 4", "note": "x86-64 指令 idivq/jmp/shr/leaq 辨析" },
+    { "start": 132, "end": 141, "module": "Machine Prog", "qno": "第一题 5", "note": "call 后栈上第 k 个参数的地址" },
+    { "start": 142, "end": 154, "module": "Machine Prog", "qno": "第一题 6", "note": "cmpq 后 jg 跳转的条件码表达式" },
+    { "start": 155, "end": 169, "module": "Machine Prog", "qno": "第一题 7", "note": "函数指针数组的 sizeof" },
+    { "start": 170, "end": 180, "module": "Machine Prog", "qno": "第一题 8", "note": "栈帧定长、编译时确定大小" },
+    { "start": 181, "end": 188, "module": "Machine Prog", "qno": "第一题 9", "note": "pushq %rbp 的等价指令序列" },
+    { "start": 189, "end": 200, "module": "Processor Arch", "qno": "第一题 10", "note": "RISC/CISC 指令集设计特征辨识" },
+    { "start": 205, "end": 211, "module": "Processor Arch", "qno": "第一题 11", "note": "插入流水线寄存器后的最大吞吐率" },
+    { "start": 212, "end": 223, "module": "Compilation (Program optimization and linking)", "qno": "第一题 12", "note": "程序优化相关陈述的正误" },
+    { "start": 224, "end": 238, "module": "Compilation (Program optimization and linking)", "qno": "第一题 13", "note": "loop unrolling 的原理与代价" },
+    { "start": 239, "end": 244, "module": "Memory Hierarchy", "qno": "第一题 14", "note": "不含数组的循环体现哪种局部性" },
+    { "start": 245, "end": 250, "module": "Memory Hierarchy", "qno": "第一题 15", "note": "SRAM/DRAM/SDRAM/SSD 特性" },
+    { "start": 256, "end": 261, "module": "Data Representation", "qno": "第二题 1", "note": "8 位整数最大值溢出与补码/无符号加法" },
+    { "start": 262, "end": 269, "module": "Data Representation", "qno": "第二题 2", "note": "IEEE 754 值的换算与浮点结合性" },
+    { "start": 294, "end": 387, "module": "Machine Prog", "qno": "第三题", "note": "C 与 x86-64 汇编填空：栈帧、strcpy、结构体" },
+    { "start": 492, "end": 515, "module": "Processor Arch", "qno": "第四题 1", "note": "irOpq 指令在 SEQ 各阶段的实现" },
+    { "start": 516, "end": 556, "module": "Processor Arch", "qno": "第四题 2(1)", "note": "数据前递与 E_valA 的 HCL 描述" },
+    { "start": 557, "end": 559, "module": "Processor Arch", "qno": "第四题 2(2)", "note": "load/use 冒险检测的 HCL 表达" },
+    { "start": 560, "end": 564, "module": "Processor Arch", "qno": "第四题 2(3)", "note": "PIPE 上片段周期数与新指令优化收益" },
+    { "start": 570, "end": 586, "module": "Memory Hierarchy", "qno": "第五题 1)", "note": "直接映射 cache 的 Tag Ram 变化与命中" },
+    { "start": 587, "end": 618, "module": "Memory Hierarchy", "qno": "第五题 2)", "note": "Victim Cache 的 Tag 变化与命中率" },
+    { "start": 624, "end": 668, "module": "Memory Hierarchy", "qno": "第六题", "note": "存储系统性能评测：局部性与 cache 层次" }
+  ],
+  "answer_sections": [
+    { "start": 270, "end": 289, "note": "第二题（整数、浮点数）参考答案" },
+    { "start": 388, "end": 486, "note": "第三题（机器级编程）参考答案，含已填答案的题目重排" }
+  ]
+}

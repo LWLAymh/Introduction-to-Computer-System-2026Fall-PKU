@@ -1,0 +1,191 @@
+{
+  "file": "期中/2024期中-带答案.md",
+  "total_lines": 656,
+  "items": [
+    {
+      "start": 49,
+      "end": 55,
+      "module": "Data Representation",
+      "qno": "第一题 1",
+      "note": "32位有符号整数位运算表达式的恒真判断"
+    },
+    {
+      "start": 56,
+      "end": 66,
+      "module": "Data Representation",
+      "qno": "第一题 2",
+      "note": "字符数组指针读取、字节序与ASCII码"
+    },
+    {
+      "start": 67,
+      "end": 80,
+      "module": "Data Representation",
+      "qno": "第一题 3",
+      "note": "float阶码/小数位位数与可表示实数数量"
+    },
+    {
+      "start": 81,
+      "end": 124,
+      "module": "Machine Prog",
+      "qno": "第一题 4",
+      "note": "结构体对齐与指针数组声明的sizeof/指针差"
+    },
+    {
+      "start": 125,
+      "end": 137,
+      "module": "Machine Prog",
+      "qno": "第一题 5",
+      "note": "x86-64栈结构与参数构造区"
+    },
+    {
+      "start": 138,
+      "end": 150,
+      "module": "Machine Prog",
+      "qno": "第一题 6",
+      "note": "缓冲区溢出防护与金丝雀值检测"
+    },
+    {
+      "start": 151,
+      "end": 158,
+      "module": "Machine Prog",
+      "qno": "第一题 7",
+      "note": "结构体参数与返回值经栈/寄存器传递"
+    },
+    {
+      "start": 159,
+      "end": 176,
+      "module": "Machine Prog",
+      "qno": "第一题 8",
+      "note": "条件传送cmove与分支实现对比"
+    },
+    {
+      "start": 177,
+      "end": 202,
+      "module": "Processor Arch",
+      "qno": "第一题 9",
+      "note": "PIPE中数据前递次数统计"
+    },
+    {
+      "start": 203,
+      "end": 212,
+      "module": "Processor Arch",
+      "qno": "第一题 10",
+      "note": "RISC与CISC的对比"
+    },
+    {
+      "start": 213,
+      "end": 227,
+      "module": "Processor Arch",
+      "qno": "第一题 11",
+      "note": "SEQ中mem_addr/mem_data的HCL补全"
+    },
+    {
+      "start": 228,
+      "end": 238,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 12",
+      "note": "SRAM/DRAM/SSD/旋转磁盘特性比较"
+    },
+    {
+      "start": 239,
+      "end": 259,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 13",
+      "note": "磁盘容量与平均访问时间估算"
+    },
+    {
+      "start": 260,
+      "end": 271,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 14",
+      "note": "cache相联度、块大小与写策略"
+    },
+    {
+      "start": 272,
+      "end": 296,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 15",
+      "note": "代码优化等价性判断（别名、副作用、strlen）"
+    },
+    {
+      "start": 302,
+      "end": 326,
+      "module": "Data Representation",
+      "qno": "第二题 1",
+      "note": "内联汇编vmovss读浮点：x86-64限定与小端"
+    },
+    {
+      "start": 327,
+      "end": 333,
+      "module": "Data Representation",
+      "qno": "第二题 2",
+      "note": "自定义8位浮点格式：最大负非规格化数与NaN个数"
+    },
+    {
+      "start": 338,
+      "end": 353,
+      "module": "Data Representation",
+      "qno": "第二题 3",
+      "note": "union类型转换与float转int的舍入/溢出"
+    },
+    {
+      "start": 387,
+      "end": 461,
+      "module": "Machine Prog",
+      "qno": "第三题",
+      "note": "递归函数foo的C与汇编代码补全"
+    },
+    {
+      "start": 537,
+      "end": 582,
+      "module": "Processor Arch",
+      "qno": "第四题",
+      "note": "PIPE前递HCL补全、Load/Use冒险与新数据通路"
+    },
+    {
+      "start": 617,
+      "end": 623,
+      "module": "Memory Hierarchy",
+      "qno": "第五题 1",
+      "note": "cache扩容方式的选择"
+    },
+    {
+      "start": 624,
+      "end": 627,
+      "module": "Memory Hierarchy",
+      "qno": "第五题 2",
+      "note": "由命中率反推cache block大小"
+    },
+    {
+      "start": 628,
+      "end": 641,
+      "module": "Memory Hierarchy",
+      "qno": "第五题 3",
+      "note": "二路组相联cache访存模拟与命中次数"
+    },
+    {
+      "start": 646,
+      "end": 655,
+      "module": "Memory Hierarchy",
+      "qno": "第五题 4",
+      "note": "带排除规则的cache模拟与命中次数"
+    }
+  ],
+  "answer_sections": [
+    {
+      "start": 354,
+      "end": 381,
+      "note": "第二题参考答案与解析"
+    },
+    {
+      "start": 462,
+      "end": 531,
+      "note": "第三题参考答案与完整汇编"
+    },
+    {
+      "start": 587,
+      "end": 611,
+      "note": "第四题参考答案与评分标准"
+    }
+  ]
+}

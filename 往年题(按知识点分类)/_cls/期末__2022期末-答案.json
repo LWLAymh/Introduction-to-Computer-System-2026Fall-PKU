@@ -1,0 +1,30 @@
+{
+  "file": "期末/2022期末-答案.md",
+  "total_lines": 87,
+  "items": [
+    {"start": 10, "end": 10, "module": "Processor Arch", "qno": "第一题 1", "note": "RISC/CISC 指令集设计"},
+    {"start": 11, "end": 11, "module": "Processor Arch", "qno": "第一题 2", "note": "存疑：仅给出答案 10，考点不明"},
+    {"start": 12, "end": 12, "module": "Machine Prog", "qno": "第一题 3", "note": "rdi/rsi 参数传递寄存器"},
+    {"start": 13, "end": 13, "module": "Compilation (Program optimization and linking)", "qno": "第一题 4", "note": "符号解析与重定位"},
+    {"start": 14, "end": 14, "module": "Compilation (Program optimization and linking)", "qno": "第一题 5", "note": "GOT 与 PLT"},
+    {"start": 15, "end": 15, "module": "Compilation (Program optimization and linking)", "qno": "第一题 6", "note": "静态库链接顺序 gcc 命令行"},
+    {"start": 16, "end": 16, "module": "ECF and System IO", "qno": "第一题 7", "note": "异常切内核态与信号处理程序"},
+    {"start": 17, "end": 17, "module": "ECF and System IO", "qno": "第一题 8", "note": "fork/execve 进程控制"},
+    {"start": 18, "end": 18, "module": "Virtual Memory and Dynamic Memory Allocation", "qno": "第一题 9", "note": "MMU 与 TLB"},
+    {"start": 19, "end": 19, "module": "Virtual Memory and Dynamic Memory Allocation", "qno": "第一题 10", "note": "虚拟地址 0x5d5 相关计算"},
+    {"start": 20, "end": 20, "module": "Virtual Memory and Dynamic Memory Allocation", "qno": "第一题 11", "note": "内存映射"},
+    {"start": 21, "end": 21, "module": "Network", "qno": "第一题 12", "note": "点分十进制 IP 地址"},
+    {"start": 22, "end": 22, "module": "Network", "qno": "第一题 13", "note": "bind 绑定套接字"},
+    {"start": 23, "end": 23, "module": "Concurrent Programming and Synchronization", "qno": "第一题 14", "note": "对等线程"},
+    {"start": 24, "end": 24, "module": "Concurrent Programming and Synchronization", "qno": "第一题 15", "note": "互斥锁"},
+    {"start": 25, "end": 31, "module": "Processor Arch", "qno": "第二题", "note": "流水线 stall/bubble 与流水线寄存器"},
+    {"start": 35, "end": 50, "module": "Compilation (Program optimization and linking)", "qno": "第三题", "note": "符号表、重定位、.interp 与 PLT"},
+    {"start": 51, "end": 63, "module": "ECF and System IO", "qno": "第四题", "note": "信号屏蔽与 sigsuspend 同步"},
+    {"start": 64, "end": 71, "module": "Virtual Memory and Dynamic Memory Allocation", "qno": "第五题", "note": "虚拟内存布局与 malloc 内存错误"},
+    {"start": 75, "end": 80, "module": "Network", "qno": "第六题", "note": "SOCK_STR 与客户端 fd 泄漏"},
+    {"start": 81, "end": 87, "module": "Concurrent Programming and Synchronization", "qno": "第七题", "note": "信号量实现读者-写者与互斥"}
+  ],
+  "answer_sections": [
+    {"start": 1, "end": 87, "note": "全文即 2022 期末参考答案与题解（非完整题干）"}
+  ]
+}

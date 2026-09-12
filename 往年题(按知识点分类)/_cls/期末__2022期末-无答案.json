@@ -1,0 +1,308 @@
+{
+  "file": "期末/2022期末-无答案.md",
+  "total_lines": 773,
+  "items": [
+    {
+      "start": 40,
+      "end": 40,
+      "module": "Machine Prog",
+      "qno": "第一题 1",
+      "note": "ISA 两大类 RISC/CISC 的指令数与寻址方式对比"
+    },
+    {
+      "start": 42,
+      "end": 42,
+      "module": "Data Representation",
+      "qno": "第一题 2",
+      "note": "IEEE754 单精度浮点十六进制形式转十进制"
+    },
+    {
+      "start": 44,
+      "end": 44,
+      "module": "Machine Prog",
+      "qno": "第一题 3",
+      "note": "x86-64/Linux 传参前两个寄存器"
+    },
+    {
+      "start": 46,
+      "end": 46,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 4",
+      "note": "静态链接器的两大主要任务"
+    },
+    {
+      "start": 48,
+      "end": 48,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 5",
+      "note": "延迟绑定依赖的两个数据结构 PLT/GOT"
+    },
+    {
+      "start": 50,
+      "end": 58,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 6",
+      "note": "静态库命令行最小排列顺序以解析全部符号"
+    },
+    {
+      "start": 60,
+      "end": 68,
+      "module": "ECF and System IO",
+      "qno": "第一题 7",
+      "note": "进程上下文切换与信号递送流程填空（含图）"
+    },
+    {
+      "start": 70,
+      "end": 70,
+      "module": "ECF and System IO",
+      "qno": "第一题 8",
+      "note": "Shell 解析命令行后以 fork/execve 执行外部命令"
+    },
+    {
+      "start": 72,
+      "end": 72,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 9",
+      "note": "虚拟地址交 MMU 翻译并引入 TLB 加速"
+    },
+    {
+      "start": 76,
+      "end": 111,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 10",
+      "note": "组相联 TLB 与一级页表完成地址翻译（含两张表）"
+    },
+    {
+      "start": 113,
+      "end": 113,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 11",
+      "note": "mmap 把磁盘文件与虚拟内存区域关联（内存映射）"
+    },
+    {
+      "start": 115,
+      "end": 115,
+      "module": "Network",
+      "qno": "第一题 12",
+      "note": "IPv4 地址十六进制转点分十进制"
+    },
+    {
+      "start": 117,
+      "end": 121,
+      "module": "Network",
+      "qno": "第一题 13",
+      "note": "客户端-服务器套接字流程填空（accept/bind/listen/socket）"
+    },
+    {
+      "start": 123,
+      "end": 123,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 14",
+      "note": "主线程创建对等线程后两线程并发运行"
+    },
+    {
+      "start": 125,
+      "end": 125,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 15",
+      "note": "以互斥为目的的二元信号量即互斥锁"
+    },
+    {
+      "start": 133,
+      "end": 135,
+      "module": "Processor Arch",
+      "qno": "第二题 (1)",
+      "note": "Y86 流水线 load-use 冒险的 HCL 检测表达式"
+    },
+    {
+      "start": 137,
+      "end": 141,
+      "module": "Processor Arch",
+      "qno": "第二题 (2)",
+      "note": "load-use 冒险时各流水级 stall/bubble 设置"
+    },
+    {
+      "start": 143,
+      "end": 149,
+      "module": "Processor Arch",
+      "qno": "第二题 (3)",
+      "note": "ret 处理时机 HCL 表达式（含流水线信号连接图）"
+    },
+    {
+      "start": 151,
+      "end": 155,
+      "module": "Processor Arch",
+      "qno": "第二题 (4)",
+      "note": "ret 处理时各流水级 stall/bubble 设置"
+    },
+    {
+      "start": 157,
+      "end": 157,
+      "module": "Processor Arch",
+      "qno": "第二题 (5)",
+      "note": "ret 指令插入的 bubble 周期数"
+    },
+    {
+      "start": 159,
+      "end": 161,
+      "module": "Processor Arch",
+      "qno": "第二题 (6)",
+      "note": "load-use 与 ret 需同时处理的场景分析"
+    },
+    {
+      "start": 167,
+      "end": 202,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第三题 (1)",
+      "note": "main.o 的 .symtab 条目、符号类型与所在节（含 main.c/addvec.c）"
+    },
+    {
+      "start": 204,
+      "end": 313,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第三题 (2)",
+      "note": "依 objdump 反汇编片段填写重定位条目与引用值"
+    },
+    {
+      "start": 317,
+      "end": 325,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第三题 (3)",
+      "note": "动态链接器 ld-linux 的路径选择"
+    },
+    {
+      "start": 327,
+      "end": 327,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第三题 (4)",
+      "note": "printf 对应的 PLT 与 GOT 表条目下标"
+    },
+    {
+      "start": 331,
+      "end": 402,
+      "module": "ECF and System IO",
+      "qno": "第四题 1(1)",
+      "note": "信号传随机数程序填空 A~F（含程序上下文）"
+    },
+    {
+      "start": 404,
+      "end": 404,
+      "module": "ECF and System IO",
+      "qno": "第四题 1(2)",
+      "note": "第 43 行阻塞信号是否必需的后果分析"
+    },
+    {
+      "start": 406,
+      "end": 408,
+      "module": "ECF and System IO",
+      "qno": "第四题 2",
+      "note": "处理函数加计数条件后子进程输出值推导"
+    },
+    {
+      "start": 412,
+      "end": 418,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第五题 1",
+      "note": "Linux 进程虚拟内存布局各区域内容（含图）"
+    },
+    {
+      "start": 420,
+      "end": 420,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第五题 2",
+      "note": "写只读代码段/映射区地址的后果分析"
+    },
+    {
+      "start": 422,
+      "end": 510,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第五题 3",
+      "note": "堆上代码的 4 处内存安全错误定位"
+    },
+    {
+      "start": 516,
+      "end": 567,
+      "module": "Network",
+      "qno": "第六题 1",
+      "note": "Open_listenfd 中 hints.ai_socktype 取值（含服务器代码）"
+    },
+    {
+      "start": 569,
+      "end": 569,
+      "module": "Network",
+      "qno": "第六题 2",
+      "note": "Getnameinfo 用途：由 IP 地址查主机名"
+    },
+    {
+      "start": 571,
+      "end": 609,
+      "module": "Network",
+      "qno": "第六题 3",
+      "note": "由 log.out 客户端端口推断命令行缺失参数（含客户端代码）"
+    },
+    {
+      "start": 611,
+      "end": 611,
+      "module": "Network",
+      "qno": "第六题 4",
+      "note": "GOAL 增大后客户端报错的原因"
+    },
+    {
+      "start": 615,
+      "end": 615,
+      "module": "Network",
+      "qno": "第六题 5",
+      "note": "在客户端补一行代码以支持更大的 GOAL"
+    },
+    {
+      "start": 617,
+      "end": 621,
+      "module": "Network",
+      "qno": "第六题 6",
+      "note": "两客户端并发连服务器时结果分析"
+    },
+    {
+      "start": 625,
+      "end": 631,
+      "module": "Network",
+      "qno": "第六题 3（第 14 页重复）",
+      "note": "操作流程与端口推断题面，扫描重复页"
+    },
+    {
+      "start": 633,
+      "end": 633,
+      "module": "Network",
+      "qno": "第六题 4（第 14 页重复）",
+      "note": "GOAL 增大报错原因，扫描重复页"
+    },
+    {
+      "start": 635,
+      "end": 635,
+      "module": "Network",
+      "qno": "第六题 5（第 14 页重复）",
+      "note": "补代码支持大 GOAL，扫描重复页"
+    },
+    {
+      "start": 637,
+      "end": 641,
+      "module": "Network",
+      "qno": "第六题 6（第 14 页重复）",
+      "note": "多客户端并发结果分析，扫描重复页"
+    },
+    {
+      "start": 645,
+      "end": 685,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第七题 1",
+      "note": "第一类读者-写者（读者优先）信号量 P/V 填空"
+    },
+    {
+      "start": 687,
+      "end": 730,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第七题 2",
+      "note": "第二类读者-写者（写者优先）信号量 P/V 填空"
+    }
+  ],
+  "answer_sections": []
+}

@@ -1,0 +1,224 @@
+{
+  "file": "期末/2025期末-无答案.md",
+  "total_lines": 596,
+  "items": [
+    {
+      "start": 49,
+      "end": 59,
+      "module": "Data Representation",
+      "qno": "一 1",
+      "note": "有符号/无符号转换、模回绕与比较"
+    },
+    {
+      "start": 60,
+      "end": 69,
+      "module": "Data Representation",
+      "qno": "一 2",
+      "note": "int↔float 转换精度与舍入"
+    },
+    {
+      "start": 70,
+      "end": 77,
+      "module": "Data Representation",
+      "qno": "一 3",
+      "note": "右移左移清零低 5 位"
+    },
+    {
+      "start": 82,
+      "end": 95,
+      "module": "Data Representation",
+      "qno": "一 4",
+      "note": "结构体对齐、offsetof 与 sizeof"
+    },
+    {
+      "start": 96,
+      "end": 105,
+      "module": "Machine Prog",
+      "qno": "一 5",
+      "note": "addl 执行结果与 CF/ZF/OF 标志"
+    },
+    {
+      "start": 106,
+      "end": 121,
+      "module": "Machine Prog",
+      "qno": "一 6",
+      "note": "栈帧布局、%rsp 对齐与 leave 语义"
+    },
+    {
+      "start": 122,
+      "end": 143,
+      "module": "Machine Prog",
+      "qno": "一 7",
+      "note": "8 个 long 参数的寄存器/栈传递与 ABI"
+    },
+    {
+      "start": 144,
+      "end": 150,
+      "module": "Processor Arch",
+      "qno": "一 8",
+      "note": "Y86-64 指令编码 regids 与 valC 字段"
+    },
+    {
+      "start": 151,
+      "end": 157,
+      "module": "Processor Arch",
+      "qno": "一 9",
+      "note": "ret 在 PIPE 中的控制冒险与 bubble"
+    },
+    {
+      "start": 158,
+      "end": 163,
+      "module": "Memory Hierarchy",
+      "qno": "一 10",
+      "note": "局部性（locality）与遍历方式"
+    },
+    {
+      "start": 164,
+      "end": 169,
+      "module": "Memory Hierarchy",
+      "qno": "一 11",
+      "note": "cache 写策略 write-back/through 与写分配"
+    },
+    {
+      "start": 174,
+      "end": 185,
+      "module": "Memory Hierarchy",
+      "qno": "一 12",
+      "note": "两级 cache 的 AMAT 与 miss rate 计算"
+    },
+    {
+      "start": 186,
+      "end": 192,
+      "module": "Memory Hierarchy",
+      "qno": "一 13",
+      "note": "memory mountain 与 stride/工作集"
+    },
+    {
+      "start": 193,
+      "end": 204,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "二 14",
+      "note": "全局符号强/弱定义与重复定义"
+    },
+    {
+      "start": 205,
+      "end": 210,
+      "module": "ECF and System IO",
+      "qno": "二 15",
+      "note": "异常四分类与返回行为"
+    },
+    {
+      "start": 215,
+      "end": 220,
+      "module": "ECF and System IO",
+      "qno": "二 16",
+      "note": "进程上下文切换的时机与寄存器保存"
+    },
+    {
+      "start": 221,
+      "end": 232,
+      "module": "ECF and System IO",
+      "qno": "二 17",
+      "note": "fork 后共享文件偏移下的 read 结果"
+    },
+    {
+      "start": 233,
+      "end": 251,
+      "module": "ECF and System IO",
+      "qno": "二 18",
+      "note": "SIGCHLD 不排队、waitpid 回收与 zombie"
+    },
+    {
+      "start": 252,
+      "end": 275,
+      "module": "ECF and System IO",
+      "qno": "二 19",
+      "note": "阻塞信号 pending 不排队与 sigprocmask"
+    },
+    {
+      "start": 276,
+      "end": 282,
+      "module": "ECF and System IO",
+      "qno": "二 20",
+      "note": "execve 成功后的语义与 fd 保持"
+    },
+    {
+      "start": 283,
+      "end": 295,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "二 21",
+      "note": "fork 后地址空间与 COW 缺页（兼 fork 语义）"
+    },
+    {
+      "start": 296,
+      "end": 305,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "二 22",
+      "note": "TLB 作用、上下文切换与 page fault 关系"
+    },
+    {
+      "start": 306,
+      "end": 313,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "二 23",
+      "note": "隐式/显式空闲链表与内外部碎片"
+    },
+    {
+      "start": 314,
+      "end": 329,
+      "module": "Network",
+      "qno": "二 24",
+      "note": "并发网络服务器 listenfd/connfd 与 SIGCHLD"
+    },
+    {
+      "start": 330,
+      "end": 335,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "二 25",
+      "note": "进程与线程的资源共享与切换开销"
+    },
+    {
+      "start": 340,
+      "end": 366,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "三 1",
+      "note": "main.o 的 .symtab 符号表条目与所在节"
+    },
+    {
+      "start": 367,
+      "end": 386,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "三 2",
+      "note": "重定位条目与 32 位小端机器码"
+    },
+    {
+      "start": 391,
+      "end": 396,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "三 3",
+      "note": "链接顺序对可执行文件的影响"
+    },
+    {
+      "start": 397,
+      "end": 457,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "四 1",
+      "note": "多线程代码中的共享变量识别"
+    },
+    {
+      "start": 458,
+      "end": 555,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "四 2",
+      "note": "Lightswitch 读者-写者与到达时刻状态分析"
+    },
+    {
+      "start": 556,
+      "end": 595,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "四 3",
+      "note": "服务员-厨师订单缓冲区的生产者-消费者"
+    }
+  ],
+  "answer_sections": []
+}

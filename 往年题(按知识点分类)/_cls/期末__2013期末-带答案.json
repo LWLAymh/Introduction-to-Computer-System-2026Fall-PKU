@@ -1,0 +1,203 @@
+{
+  "file": "期末/2013期末-带答案.md",
+  "total_lines": 684,
+  "items": [
+    {
+      "start": 49,
+      "end": 58,
+      "module": "Data Representation",
+      "qno": "第一题 1",
+      "note": "减少1位指数位对IEEE浮点表示范围与精度的影响"
+    },
+    {
+      "start": 59,
+      "end": 63,
+      "module": "Machine Prog",
+      "qno": "第一题 2",
+      "note": "x86-64 callq 后第一个参数的位置"
+    },
+    {
+      "start": 64,
+      "end": 70,
+      "module": "Machine Prog",
+      "qno": "第一题 3",
+      "note": "用 leal 计算 5x+7"
+    },
+    {
+      "start": 71,
+      "end": 82,
+      "module": "Processor Arch",
+      "qno": "第一题 4",
+      "note": "Y86 SEQ 中 PC 更新的 HCL 数据来源"
+    },
+    {
+      "start": 83,
+      "end": 88,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 5",
+      "note": "直接映射 cache 的每路行数"
+    },
+    {
+      "start": 89,
+      "end": 93,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 6",
+      "note": "给定地址序列的 cache 替换次数"
+    },
+    {
+      "start": 94,
+      "end": 117,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 7",
+      "note": "同名全局变量导致的链接错误"
+    },
+    {
+      "start": 118,
+      "end": 125,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 8",
+      "note": "哪些符号一定不需要重定位"
+    },
+    {
+      "start": 126,
+      "end": 134,
+      "module": "ECF and System IO",
+      "qno": "第一题 9",
+      "note": "信号的基本性质（待处理、SIGKILL）"
+    },
+    {
+      "start": 135,
+      "end": 145,
+      "module": "ECF and System IO",
+      "qno": "第一题 10",
+      "note": "非局部跳转 setjmp/longjmp"
+    },
+    {
+      "start": 146,
+      "end": 155,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 11",
+      "note": "三级页表下 VPN 位数推导"
+    },
+    {
+      "start": 156,
+      "end": 165,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 12",
+      "note": "fork 的 copy-on-write 与页表项权限（兼 ECF）"
+    },
+    {
+      "start": 166,
+      "end": 171,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 13",
+      "note": "外部碎片与内部碎片辨析"
+    },
+    {
+      "start": 176,
+      "end": 182,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 14",
+      "note": "隐式空闲链表分配器的适配、吞吐与对齐"
+    },
+    {
+      "start": 183,
+      "end": 197,
+      "module": "ECF and System IO",
+      "qno": "第一题 15",
+      "note": "open/read/write 后文件偏移与内容"
+    },
+    {
+      "start": 198,
+      "end": 231,
+      "module": "ECF and System IO",
+      "qno": "第一题 16",
+      "note": "open 与 dup 的文件描述符/open file table"
+    },
+    {
+      "start": 232,
+      "end": 246,
+      "module": "Network",
+      "qno": "第一题 17",
+      "note": "计算机网络与端口/域名基本概念"
+    },
+    {
+      "start": 247,
+      "end": 277,
+      "module": "Network",
+      "qno": "第一题 18",
+      "note": "client-server connection socket pair"
+    },
+    {
+      "start": 278,
+      "end": 305,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 19",
+      "note": "pthread_create 程序输出判断"
+    },
+    {
+      "start": 306,
+      "end": 319,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 20",
+      "note": "信号量 PV 序列与死锁判定"
+    },
+    {
+      "start": 325,
+      "end": 338,
+      "module": "Data Representation",
+      "qno": "第二题",
+      "note": "自定义短浮点格式填表（含舍入）"
+    },
+    {
+      "start": 344,
+      "end": 366,
+      "module": "Processor Arch",
+      "qno": "第三题",
+      "note": "组合逻辑单元流水化与吞吐率计算"
+    },
+    {
+      "start": 371,
+      "end": 423,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第四题",
+      "note": "弱/强符号属性、ELF section 与链接解析"
+    },
+    {
+      "start": 429,
+      "end": 447,
+      "module": "ECF and System IO",
+      "qno": "第五题 Part I",
+      "note": "fork 与父子进程输出交错的可能顺序"
+    },
+    {
+      "start": 452,
+      "end": 491,
+      "module": "ECF and System IO",
+      "qno": "第五题 Part II",
+      "note": "signal/kill 驱动 handler 输出 Fibonacci"
+    },
+    {
+      "start": 497,
+      "end": 565,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第六题",
+      "note": "IA32 二级页表自映射实现 get_pde/get_pte"
+    },
+    {
+      "start": 571,
+      "end": 623,
+      "module": "Network",
+      "qno": "第七题",
+      "note": "socket 连接数上限与 listenfd/connfd 填空"
+    },
+    {
+      "start": 629,
+      "end": 683,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第八题",
+      "note": "用信号量实现单双号限行（PV 操作填空）"
+    }
+  ],
+  "answer_sections": []
+}

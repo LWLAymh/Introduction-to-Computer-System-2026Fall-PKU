@@ -1,0 +1,196 @@
+{
+  "file": "期末/2016期末-带答案.md",
+  "total_lines": 816,
+  "items": [
+    {
+      "start": 52,
+      "end": 61,
+      "module": "Data Representation",
+      "qno": "第一题 1",
+      "note": "int/unsigned 混合比较与类型转换规则"
+    },
+    {
+      "start": 62,
+      "end": 73,
+      "module": "Data Representation",
+      "qno": "第一题 2",
+      "note": "自定义浮点格式的指数与尾数字段编码"
+    },
+    {
+      "start": 78,
+      "end": 84,
+      "module": "Machine Prog",
+      "qno": "第一题 3",
+      "note": "缓冲区溢出的常见防御手段辨析"
+    },
+    {
+      "start": 85,
+      "end": 89,
+      "module": "Processor Arch",
+      "qno": "第一题 4",
+      "note": "四级流水线操作周期由最长段决定"
+    },
+    {
+      "start": 90,
+      "end": 103,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 5",
+      "note": "strlen 外提优化与程序局部性"
+    },
+    {
+      "start": 104,
+      "end": 118,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 6",
+      "note": "组相联 cache 地址序列命中次数手算"
+    },
+    {
+      "start": 119,
+      "end": 129,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 7",
+      "note": "同名全局变量的符号解析与 extern"
+    },
+    {
+      "start": 130,
+      "end": 149,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 8",
+      "note": ".data/.bss 布局与变量地址顺序"
+    },
+    {
+      "start": 150,
+      "end": 162,
+      "module": "ECF and System IO",
+      "qno": "第一题 9",
+      "note": "fork 父子进程输出交错与 ++/--"
+    },
+    {
+      "start": 163,
+      "end": 168,
+      "module": "ECF and System IO",
+      "qno": "第一题 10",
+      "note": "哪些事件会导致信号发送到进程"
+    },
+    {
+      "start": 169,
+      "end": 175,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 11",
+      "note": "Mark-and-Sweep 垃圾回收的可达性假设"
+    },
+    {
+      "start": 176,
+      "end": 185,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 12",
+      "note": "Core i7 各级页表项的标志位段"
+    },
+    {
+      "start": 186,
+      "end": 191,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 13",
+      "note": "虚拟地址与物理地址的位段划分关系"
+    },
+    {
+      "start": 192,
+      "end": 208,
+      "module": "ECF and System IO",
+      "qno": "第一题 14",
+      "note": "dup2 共享文件偏移导致的内容变化"
+    },
+    {
+      "start": 213,
+      "end": 220,
+      "module": "ECF and System IO",
+      "qno": "第一题 15",
+      "note": "RIO 交叉调用、fd 分配与打开文件表"
+    },
+    {
+      "start": 221,
+      "end": 228,
+      "module": "Network",
+      "qno": "第一题 16",
+      "note": "IP 协议特性与域名到 IP 的映射"
+    },
+    {
+      "start": 229,
+      "end": 236,
+      "module": "Network",
+      "qno": "第一题 17",
+      "note": "HTTP 端口、TCP 可靠性与连接语义"
+    },
+    {
+      "start": 237,
+      "end": 246,
+      "module": "Network",
+      "qno": "第一题 18",
+      "note": "HTTPS 取文件时各层协议的必要性"
+    },
+    {
+      "start": 251,
+      "end": 256,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 19",
+      "note": "基于进程的并发服务器父子资源共享关系"
+    },
+    {
+      "start": 257,
+      "end": 285,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 20",
+      "note": "信号量 PV 下多线程输出的可能性"
+    },
+    {
+      "start": 291,
+      "end": 371,
+      "module": "Machine Prog",
+      "qno": "第二题",
+      "note": "32 位汇编反推 C 函数并计算返回值"
+    },
+    {
+      "start": 377,
+      "end": 399,
+      "module": "Processor Arch",
+      "qno": "第三题",
+      "note": "组合逻辑单元插入寄存器与吞吐率"
+    },
+    {
+      "start": 405,
+      "end": 469,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第四题",
+      "note": "强/弱符号属性表与多文件链接运行输出"
+    },
+    {
+      "start": 475,
+      "end": 559,
+      "module": "ECF and System IO",
+      "qno": "第五题",
+      "note": "fork/exit 输出排列与信号处理程序填空"
+    },
+    {
+      "start": 565,
+      "end": 681,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第六题",
+      "note": "mmap 私有/共享语义、maps 布局、TLB 与页表"
+    },
+    {
+      "start": 687,
+      "end": 745,
+      "module": "Network",
+      "qno": "第七题",
+      "note": "并发 echo server 套接字程序填空"
+    },
+    {
+      "start": 751,
+      "end": 815,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第八题",
+      "note": "多线程 cnt++ 竞态分析与 PV 实现司机售票员同步"
+    }
+  ],
+  "answer_sections": []
+}

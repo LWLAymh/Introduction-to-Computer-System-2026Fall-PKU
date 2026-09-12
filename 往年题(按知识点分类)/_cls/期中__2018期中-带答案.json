@@ -1,0 +1,28 @@
+{
+  "file": "期中/2018期中-带答案.md",
+  "total_lines": 618,
+  "items": [
+    {"start": 53, "end": 55, "module": "Data Representation", "qno": "第一题 1", "note": "类型转换的溢出与舍入"},
+    {"start": 56, "end": 68, "module": "Data Representation", "qno": "第一题 2", "note": "小端存储下字符串转整型与无符号转换"},
+    {"start": 69, "end": 85, "module": "Data Representation", "qno": "第一题 3", "note": "异或交换的位运算与按值传参"},
+    {"start": 86, "end": 92, "module": "Machine Prog", "qno": "第一题 4", "note": "movl/cltq/movabsq/movswq 语义"},
+    {"start": 93, "end": 113, "module": "Data Representation", "qno": "第一题 5", "note": "union 与 double 位模式的字节拆分"},
+    {"start": 114, "end": 126, "module": "Data Representation", "qno": "第一题 6", "note": "struct/union 成员排列与内存占用"},
+    {"start": 127, "end": 138, "module": "Machine Prog", "qno": "第一题 7", "note": "控制结构的机器码实现（jmp/cmov/跳转表）"},
+    {"start": 139, "end": 152, "module": "Machine Prog", "qno": "第一题 8", "note": "条件码的读写与改变"},
+    {"start": 153, "end": 163, "module": "Processor Arch", "qno": "第一题 9", "note": "编译技术/取指速度对 ISA 选择的影响"},
+    {"start": 164, "end": 177, "module": "Processor Arch", "qno": "第一题 10", "note": "Y86 popl 的 SEQ 实现"},
+    {"start": 178, "end": 208, "module": "Compilation (Program optimization and linking)", "qno": "第一题 11", "note": "编译器总是可行的优化（别名/副作用）"},
+    {"start": 209, "end": 219, "module": "Memory Hierarchy", "qno": "第一题 12", "note": "直接映射与 2 路组相联的命中次数"},
+    {"start": 224, "end": 238, "module": "Memory Hierarchy", "qno": "第一题 13", "note": "全相联缓存的替换算法对比"},
+    {"start": 239, "end": 252, "module": "Memory Hierarchy", "qno": "第一题 14", "note": "SRAM/DRAM/SSD/磁盘容量与访问时间"},
+    {"start": 253, "end": 277, "module": "Memory Hierarchy", "qno": "第一题 15", "note": "数组访问顺序与 cache 全 miss 判断"},
+    {"start": 283, "end": 358, "module": "Data Representation", "qno": "第二题", "note": "补码/无符号恒等式、nlz 与大小端 strlen"},
+    {"start": 364, "end": 379, "module": "Data Representation", "qno": "第三题 1", "note": "结构体对齐填充与 sizeof 计算"},
+    {"start": 380, "end": 439, "module": "Machine Prog", "qno": "第三题 2、3", "note": "结构体访问汇编填空与汇编反推 C 代码"},
+    {"start": 445, "end": 503, "module": "Processor Arch", "qno": "第四题", "note": "Y86-32 流水线前递 HCL 与 load-use 冒险处理"},
+    {"start": 509, "end": 571, "module": "Memory Hierarchy", "qno": "第五题", "note": "Cache 组相联状态表、AMAT/miss rate 与容量计算"},
+    {"start": 577, "end": 617, "module": "Processor Arch", "qno": "第六题", "note": "PIPE 上循环代码的周期数（冒险/预测/缺失）"}
+  ],
+  "answer_sections": []
+}

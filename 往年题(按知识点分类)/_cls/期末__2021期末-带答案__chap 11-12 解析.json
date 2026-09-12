@@ -1,0 +1,104 @@
+{
+  "file": "期末/2021期末-带答案/chap 11-12 解析.md",
+  "total_lines": 593,
+  "items": [
+    {
+      "start": 5,
+      "end": 11,
+      "module": "Network",
+      "qno": "选择题 1",
+      "note": "TCP 协议特性判断"
+    },
+    {
+      "start": 29,
+      "end": 37,
+      "module": "Network",
+      "qno": "选择题 2",
+      "note": "TCP 套接字接口 connect/bind/listen 辨析"
+    },
+    {
+      "start": 53,
+      "end": 61,
+      "module": "Network",
+      "qno": "选择题 3",
+      "note": "Web 服务、HTTP 状态码与域名映射"
+    },
+    {
+      "start": 79,
+      "end": 89,
+      "module": "Network",
+      "qno": "备选题 4",
+      "note": "全球 IP 因特网：字节序/DNS/套接字说法正误"
+    },
+    {
+      "start": 101,
+      "end": 111,
+      "module": "Network",
+      "qno": "备选题 5",
+      "note": "网络基本概念说法正误"
+    },
+    {
+      "start": 123,
+      "end": 131,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "选择题 1",
+      "note": "进程与线程模型：上下文、线程栈、地址空间"
+    },
+    {
+      "start": 137,
+      "end": 363,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "大题 小题1",
+      "note": "生产者-消费者信号量解法1：代码与子问题"
+    },
+    {
+      "start": 377,
+      "end": 577,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "大题 小题2",
+      "note": "信号量模拟条件变量解法2：代码与子问题"
+    }
+  ],
+  "answer_sections": [
+    {
+      "start": 13,
+      "end": 27,
+      "note": "11章选择题 1 答案 C 与逐项解析"
+    },
+    {
+      "start": 39,
+      "end": 51,
+      "note": "11章选择题 2 答案 A 与逐项解析"
+    },
+    {
+      "start": 63,
+      "end": 75,
+      "note": "11章选择题 3 答案 D 与解析"
+    },
+    {
+      "start": 91,
+      "end": 99,
+      "note": "备选题 4 答案 D 与 A/B/C 解析"
+    },
+    {
+      "start": 113,
+      "end": 119,
+      "note": "备选题 5 答案 A 与解析"
+    },
+    {
+      "start": 133,
+      "end": 135,
+      "note": "12章选择题解析（答案 B，线程栈不设防）"
+    },
+    {
+      "start": 365,
+      "end": 375,
+      "note": "大题小题1 解析（a BACA，资源申请与死锁）"
+    },
+    {
+      "start": 579,
+      "end": 593,
+      "note": "大题小题2 解析（a ADC; b A，while 与条件变量）"
+    }
+  ]
+}

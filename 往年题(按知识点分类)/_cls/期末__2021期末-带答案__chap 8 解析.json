@@ -1,0 +1,51 @@
+{
+  "file": "期末/2021期末-带答案/chap 8 解析.md",
+  "total_lines": 111,
+  "items": [
+    {
+      "start": 1,
+      "end": 11,
+      "module": "ECF and System IO",
+      "qno": "第 1 题",
+      "note": "waitpid 选项组合、signal 例外、用户态与内核态切换、中断同步性"
+    },
+    {
+      "start": 19,
+      "end": 27,
+      "module": "ECF and System IO",
+      "qno": "第 2 题",
+      "note": "异常四分类：中断/陷阱/故障/终止的判别"
+    },
+    {
+      "start": 43,
+      "end": 55,
+      "module": "ECF and System IO",
+      "qno": "大题 PART A",
+      "note": "父进程 fork 两个子进程，用信号在兄弟进程间同步输出奇偶数"
+    },
+    {
+      "start": 57,
+      "end": 77,
+      "module": "ECF and System IO",
+      "qno": "大题 PART B",
+      "note": "信号检测时机、相同信号只记一次、结合处理器给出可能输出"
+    }
+  ],
+  "answer_sections": [
+    {
+      "start": 13,
+      "end": 17,
+      "note": "第 1 题答案与解析"
+    },
+    {
+      "start": 29,
+      "end": 41,
+      "note": "第 2 题答案与解析"
+    },
+    {
+      "start": 79,
+      "end": 111,
+      "note": "大题 PART A/B 答案与解题要点"
+    }
+  ]
+}

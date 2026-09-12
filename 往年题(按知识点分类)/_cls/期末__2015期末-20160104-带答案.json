@@ -1,0 +1,196 @@
+{
+  "file": "期末/2015期末-20160104-带答案.md",
+  "total_lines": 771,
+  "items": [
+    {
+      "start": 52,
+      "end": 54,
+      "module": "Machine Prog",
+      "qno": "第一题 1",
+      "note": "哪条指令不改变 esp"
+    },
+    {
+      "start": 55,
+      "end": 58,
+      "module": "Data Representation",
+      "qno": "第一题 2",
+      "note": "单精度浮点数 27.5 的内存十六进制表示"
+    },
+    {
+      "start": 59,
+      "end": 61,
+      "module": "Machine Prog",
+      "qno": "第一题 3",
+      "note": "x86 寻址方式合法性"
+    },
+    {
+      "start": 66,
+      "end": 73,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 4",
+      "note": "静态库链接的规则与命令行顺序"
+    },
+    {
+      "start": 74,
+      "end": 85,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 5",
+      "note": "字符串常量被放入哪个 ELF 节"
+    },
+    {
+      "start": 86,
+      "end": 93,
+      "module": "ECF and System IO",
+      "qno": "第一题 6",
+      "note": "阻塞信号与待处理信号只处理一次"
+    },
+    {
+      "start": 94,
+      "end": 104,
+      "module": "ECF and System IO",
+      "qno": "第一题 7",
+      "note": "异常的定义与同步/异步性质"
+    },
+    {
+      "start": 105,
+      "end": 113,
+      "module": "ECF and System IO",
+      "qno": "第一题 8",
+      "note": "信号捕获/忽略、SIGCONT、系统调用中断"
+    },
+    {
+      "start": 114,
+      "end": 138,
+      "module": "ECF and System IO",
+      "qno": "第一题 9",
+      "note": "嵌套 fork 的输出可能"
+    },
+    {
+      "start": 139,
+      "end": 151,
+      "module": "ECF and System IO",
+      "qno": "第一题 10",
+      "note": "Unix I/O：文件偏移、read、dup2/close"
+    },
+    {
+      "start": 152,
+      "end": 183,
+      "module": "ECF and System IO",
+      "qno": "第一题 11",
+      "note": "printf 缓冲与 write 无缓冲的输出顺序"
+    },
+    {
+      "start": 184,
+      "end": 190,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 12",
+      "note": "编译器安全优化策略"
+    },
+    {
+      "start": 191,
+      "end": 197,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 13",
+      "note": "最佳适配算法的空闲块组织方式"
+    },
+    {
+      "start": 198,
+      "end": 207,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 14",
+      "note": "虚拟内存可行性依赖程序局部性（兼 Memory Hierarchy）"
+    },
+    {
+      "start": 208,
+      "end": 230,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 15",
+      "note": "IA32 二级页表地址翻译计算"
+    },
+    {
+      "start": 231,
+      "end": 244,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 16",
+      "note": "多级分页策略的层数推导"
+    },
+    {
+      "start": 245,
+      "end": 251,
+      "module": "Network",
+      "qno": "第一题 17",
+      "note": "HTTP 命令与静态/动态内容"
+    },
+    {
+      "start": 252,
+      "end": 261,
+      "module": "Network",
+      "qno": "第一题 18",
+      "note": "HUB/帧头/IP 地址分类与动态分配"
+    },
+    {
+      "start": 262,
+      "end": 293,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 19",
+      "note": "多线程可共享的变量（全局/静态局部）"
+    },
+    {
+      "start": 294,
+      "end": 317,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 20",
+      "note": "信号量 PV 序列的死锁判定"
+    },
+    {
+      "start": 323,
+      "end": 423,
+      "module": "Machine Prog",
+      "qno": "第二题",
+      "note": "由汇编/输出结果补全 C 代码与汇编填空"
+    },
+    {
+      "start": 429,
+      "end": 454,
+      "module": "Processor Arch",
+      "qno": "第三题",
+      "note": "含 F 模块的组合逻辑流水化与吞吐率"
+    },
+    {
+      "start": 459,
+      "end": 518,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第四题",
+      "note": "符号强弱属性、类型声明冲突与数据布局"
+    },
+    {
+      "start": 524,
+      "end": 553,
+      "module": "ECF and System IO",
+      "qno": "第五题",
+      "note": "fork/signal/sigprocmask/管道中信号处理的输出"
+    },
+    {
+      "start": 559,
+      "end": 643,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第六题",
+      "note": "大页TLB与两级页表地址转换、TLB miss/page fault"
+    },
+    {
+      "start": 649,
+      "end": 680,
+      "module": "Network",
+      "qno": "第七题",
+      "note": "协议栈数据包类型与软件实现、互联网概念"
+    },
+    {
+      "start": 686,
+      "end": 770,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第八题",
+      "note": "双缓冲区生产者-消费者信号量设计与 PV 填空"
+    }
+  ],
+  "answer_sections": []
+}

@@ -1,0 +1,208 @@
+{
+  "file": "期中/2022期中-带答案.md",
+  "total_lines": 653,
+  "items": [
+    {
+      "start": 52,
+      "end": 60,
+      "module": "Data Representation",
+      "qno": "第一题 1",
+      "note": "整数运算律：取负、按位取反、除法与右移"
+    },
+    {
+      "start": 61,
+      "end": 68,
+      "module": "Data Representation",
+      "qno": "第一题 2",
+      "note": "浮点运算律：交换律成立、结合律不成立"
+    },
+    {
+      "start": 69,
+      "end": 87,
+      "module": "Data Representation",
+      "qno": "第一题 3",
+      "note": "有符号/无符号整型的位级表示与比较"
+    },
+    {
+      "start": 88,
+      "end": 99,
+      "module": "Data Representation",
+      "qno": "第一题 4",
+      "note": "sizeof无符号、移位、浮点位级比较与阶码范围"
+    },
+    {
+      "start": 100,
+      "end": 119,
+      "module": "Data Representation",
+      "qno": "第一题 5",
+      "note": "小端字节序与short/int指针读取（原答案有争议）"
+    },
+    {
+      "start": 120,
+      "end": 125,
+      "module": "Machine Prog",
+      "qno": "第一题 6",
+      "note": "mov指令操作数大小与合法寻址方式"
+    },
+    {
+      "start": 126,
+      "end": 142,
+      "module": "Machine Prog",
+      "qno": "第一题 7",
+      "note": "由lea指令序列反推C表达式"
+    },
+    {
+      "start": 143,
+      "end": 161,
+      "module": "Machine Prog",
+      "qno": "第一题 8",
+      "note": "cmp/set指令后缀与data_t类型匹配"
+    },
+    {
+      "start": 162,
+      "end": 170,
+      "module": "Machine Prog",
+      "qno": "第一题 9",
+      "note": "结构体对齐填充与总大小计算"
+    },
+    {
+      "start": 171,
+      "end": 176,
+      "module": "Machine Prog",
+      "qno": "第一题 10",
+      "note": "缓冲区溢出攻击的防护手段"
+    },
+    {
+      "start": 177,
+      "end": 194,
+      "module": "Processor Arch",
+      "qno": "第一题 11",
+      "note": "RISC/CISC的ISA特征描述"
+    },
+    {
+      "start": 195,
+      "end": 201,
+      "module": "Processor Arch",
+      "qno": "第一题 12",
+      "note": "组合逻辑电路对应的HCL表达式"
+    },
+    {
+      "start": 202,
+      "end": 208,
+      "module": "Processor Arch",
+      "qno": "第一题 13",
+      "note": "三级流水线吞吐量计算"
+    },
+    {
+      "start": 209,
+      "end": 218,
+      "module": "Processor Arch",
+      "qno": "第一题 14",
+      "note": "SEQ新增条件传送立即数指令（行218附图归属存疑）"
+    },
+    {
+      "start": 222,
+      "end": 233,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 15",
+      "note": "循环展开与编译优化的限制"
+    },
+    {
+      "start": 234,
+      "end": 244,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 16",
+      "note": "磁盘/SSD/SRAM易失性等存储器性质"
+    },
+    {
+      "start": 245,
+      "end": 253,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 17",
+      "note": "SDRAM/DRAM/SRAM器件特性"
+    },
+    {
+      "start": 254,
+      "end": 264,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 18",
+      "note": "cache容量参数S/E/B的调整方式"
+    },
+    {
+      "start": 265,
+      "end": 278,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 19",
+      "note": "写回与写分配策略的选择"
+    },
+    {
+      "start": 279,
+      "end": 310,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 20",
+      "note": "saxpy内存带宽计算（含写分配）"
+    },
+    {
+      "start": 316,
+      "end": 332,
+      "module": "Data Representation",
+      "qno": "第二题",
+      "note": "8位IEEE浮点格式：编码、比较、溢出与舍入（1-7小题）"
+    },
+    {
+      "start": 352,
+      "end": 420,
+      "module": "Machine Prog",
+      "qno": "第三题",
+      "note": "switch跳转表汇编还原C代码与结构体"
+    },
+    {
+      "start": 452,
+      "end": 517,
+      "module": "Processor Arch",
+      "qno": "第四题",
+      "note": "Y86-64新增cpopqXX条件POP指令（SEQ/PIPE与冒险）"
+    },
+    {
+      "start": 557,
+      "end": 579,
+      "module": "Memory Hierarchy",
+      "qno": "第五题 1",
+      "note": "二路组相联cache容量、命中判断、LRU与延迟"
+    },
+    {
+      "start": 580,
+      "end": 606,
+      "module": "Memory Hierarchy",
+      "qno": "第五题 2",
+      "note": "全相联cache不同写策略下的命中次数统计"
+    }
+  ],
+  "answer_sections": [
+    {
+      "start": 48,
+      "end": 51,
+      "note": "第一题选择题答案表"
+    },
+    {
+      "start": 333,
+      "end": 346,
+      "note": "第二题参考答案与评分说明"
+    },
+    {
+      "start": 421,
+      "end": 446,
+      "note": "第三题参考答案与补充说明"
+    },
+    {
+      "start": 518,
+      "end": 550,
+      "note": "第四题参考答案（各阶段操作与周期数解析）"
+    },
+    {
+      "start": 607,
+      "end": 652,
+      "note": "第五题参考答案与解析"
+    }
+  ]
+}

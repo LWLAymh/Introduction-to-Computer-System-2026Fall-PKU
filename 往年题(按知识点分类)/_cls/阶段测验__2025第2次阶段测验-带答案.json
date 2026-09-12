@@ -1,0 +1,175 @@
+{
+  "file": "阶段测验/2025第2次阶段测验-带答案.md",
+  "total_lines": 341,
+  "items": [
+    {
+      "start": 54,
+      "end": 61,
+      "module": "Processor Arch",
+      "qno": "第9讲 1",
+      "note": "不定项：哪些描述属于 ISA 规定的内容"
+    },
+    {
+      "start": 62,
+      "end": 67,
+      "module": "Processor Arch",
+      "qno": "第9讲 2",
+      "note": "Y86-64 mrmovq 为何不写成 D(rA),rB（指令编码设计）"
+    },
+    {
+      "start": 68,
+      "end": 76,
+      "module": "Processor Arch",
+      "qno": "第9讲 3",
+      "note": "由 HCL 布尔表达式补全组合逻辑电路图"
+    },
+    {
+      "start": 77,
+      "end": 79,
+      "module": "Processor Arch",
+      "qno": "第9讲 4",
+      "note": "根据电路图补全时序图中 Out 信号值"
+    },
+    {
+      "start": 81,
+      "end": 95,
+      "module": "Processor Arch",
+      "qno": "第10讲 5",
+      "note": "Y86-64 popq 指令编码格式与操作步骤补全"
+    },
+    {
+      "start": 96,
+      "end": 113,
+      "module": "Processor Arch",
+      "qno": "第10讲 6",
+      "note": "SEQ 中 aluA 信号生成逻辑的 HCL 补全"
+    },
+    {
+      "start": 122,
+      "end": 125,
+      "module": "Processor Arch",
+      "qno": "第11讲 7",
+      "note": "三级流水线的延迟与吞吐（细分流水级计算）"
+    },
+    {
+      "start": 126,
+      "end": 133,
+      "module": "Processor Arch",
+      "qno": "第11讲 8",
+      "note": "PIPE 上 addq 的数据冒险检测与数据前递"
+    },
+    {
+      "start": 134,
+      "end": 143,
+      "module": "Processor Arch",
+      "qno": "第11讲 9",
+      "note": "写 Load-use 相关代码并说明前递能否解决"
+    },
+    {
+      "start": 144,
+      "end": 149,
+      "module": "Processor Arch",
+      "qno": "第11讲 10",
+      "note": "写 Load-use 与 ret 组合的 Y86-64 代码"
+    },
+    {
+      "start": 157,
+      "end": 157,
+      "module": "Memory Hierarchy",
+      "qno": "第12讲 11",
+      "note": "SRAM 与 DRAM 的功耗与价格对比"
+    },
+    {
+      "start": 158,
+      "end": 159,
+      "module": "Memory Hierarchy",
+      "qno": "第12讲 12",
+      "note": "ROM 只读、非易失性说法判断"
+    },
+    {
+      "start": 160,
+      "end": 166,
+      "module": "Memory Hierarchy",
+      "qno": "第12讲 13",
+      "note": "DDR3 内存条数据位宽与 64 位数在芯片间分散"
+    },
+    {
+      "start": 167,
+      "end": 174,
+      "module": "Memory Hierarchy",
+      "qno": "第12讲 14",
+      "note": "不定项：机械硬盘与 SSD 特点对比"
+    },
+    {
+      "start": 175,
+      "end": 186,
+      "module": "Memory Hierarchy",
+      "qno": "第12讲 15",
+      "note": "数组求和代码中的时间/空间局部性分析"
+    },
+    {
+      "start": 194,
+      "end": 199,
+      "module": "Memory Hierarchy",
+      "qno": "第13讲 16",
+      "note": "Cache 三种未命中（冷/容量/冲突）及场景"
+    },
+    {
+      "start": 200,
+      "end": 211,
+      "module": "Memory Hierarchy",
+      "qno": "第13讲 17",
+      "note": "直接映射 Cache 写分配写返回下的状态更新与命中统计"
+    },
+    {
+      "start": 212,
+      "end": 213,
+      "module": "Memory Hierarchy",
+      "qno": "第13讲 18",
+      "note": "i7 CPU 的 L2 Cache 容量估算"
+    },
+    {
+      "start": 215,
+      "end": 222,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第14/15讲 19",
+      "note": "编译优化的过程调用限制与存储器别名限制"
+    },
+    {
+      "start": 223,
+      "end": 238,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第14/15讲 20",
+      "note": "不定项：链接器需要解析的符号"
+    },
+    {
+      "start": 239,
+      "end": 277,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第14/15讲 21",
+      "note": "目标文件反汇编中 0 填充与重定位、callq 偏移"
+    },
+    {
+      "start": 279,
+      "end": 284,
+      "module": "ECF and System IO",
+      "qno": "第16/17讲 22",
+      "note": "除 0 异常属 Faults 能否在处理器中修正后继续"
+    },
+    {
+      "start": 285,
+      "end": 307,
+      "module": "ECF and System IO",
+      "qno": "第16/17讲 23",
+      "note": "fork 程序的输出次数与输出顺序判断"
+    },
+    {
+      "start": 308,
+      "end": 340,
+      "module": "ECF and System IO",
+      "qno": "第16/17讲 24",
+      "note": "含 fork/wait/sleep 的程序进程数与输出行数"
+    }
+  ],
+  "answer_sections": []
+}

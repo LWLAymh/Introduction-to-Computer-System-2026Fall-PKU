@@ -1,0 +1,203 @@
+{
+  "file": "期末/2021期末-无答案.md",
+  "total_lines": 807,
+  "items": [
+    {
+      "start": 54,
+      "end": 62,
+      "module": "Data Representation",
+      "qno": "第一题 1",
+      "note": "整数/浮点乘法的结合律与分配律"
+    },
+    {
+      "start": 63,
+      "end": 67,
+      "module": "Machine Prog",
+      "qno": "第一题 2",
+      "note": "合法的 x86-64 汇编指令与寻址方式"
+    },
+    {
+      "start": 68,
+      "end": 74,
+      "module": "Processor Arch",
+      "qno": "第一题 3",
+      "note": "RISC 与 CISC 指令集特点"
+    },
+    {
+      "start": 75,
+      "end": 93,
+      "module": "Processor Arch",
+      "qno": "第一题 4",
+      "note": "PIPE 中无前递时的数据冒险判定"
+    },
+    {
+      "start": 94,
+      "end": 100,
+      "module": "Processor Arch",
+      "qno": "第一题 5",
+      "note": "流水线延迟、吞吐率与插入寄存器"
+    },
+    {
+      "start": 101,
+      "end": 106,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 6",
+      "note": "循环展开、累积变量与浮点合并顺序"
+    },
+    {
+      "start": 107,
+      "end": 115,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 7",
+      "note": "磁盘容量、SRAM/DRAM 与存储层次/局部性"
+    },
+    {
+      "start": 120,
+      "end": 125,
+      "module": "Processor Arch",
+      "qno": "第一题 8",
+      "note": "芯片布局算法的优化目标（存疑，属 VLSI/CAD，兼时序）"
+    },
+    {
+      "start": 126,
+      "end": 131,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 9",
+      "note": "objdump/readelf/gdb 等可执行文件工具（兼 Machine Prog）"
+    },
+    {
+      "start": 132,
+      "end": 145,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 10",
+      "note": "静态局部符号与 COMMON 伪节"
+    },
+    {
+      "start": 146,
+      "end": 175,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 11",
+      "note": "动态链接、PLT/GOT 与 -ldl"
+    },
+    {
+      "start": 176,
+      "end": 184,
+      "module": "ECF and System IO",
+      "qno": "第一题 12",
+      "note": "waitpid、信号与用户态/内核态转换"
+    },
+    {
+      "start": 185,
+      "end": 195,
+      "module": "ECF and System IO",
+      "qno": "第一题 13",
+      "note": "Unix I/O、文件描述符与 RIO"
+    },
+    {
+      "start": 196,
+      "end": 214,
+      "module": "ECF and System IO",
+      "qno": "第一题 14",
+      "note": "open 标志与 O_APPEND 对文件内容的影响"
+    },
+    {
+      "start": 215,
+      "end": 219,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 15",
+      "note": "TLB/缓存索引与进程、线程切换（兼 Memory Hierarchy）"
+    },
+    {
+      "start": 220,
+      "end": 244,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 16",
+      "note": "mmap 私有映射与 fork 写时复制的输出"
+    },
+    {
+      "start": 249,
+      "end": 252,
+      "module": "Network",
+      "qno": "第一题 17",
+      "note": "TCP 协议的可靠传输与全双工特性"
+    },
+    {
+      "start": 253,
+      "end": 261,
+      "module": "Network",
+      "qno": "第一题 18",
+      "note": "TCP 套接字接口函数语义"
+    },
+    {
+      "start": 262,
+      "end": 270,
+      "module": "Network",
+      "qno": "第一题 19",
+      "note": "Web 服务、URL 与 HTTP 状态码"
+    },
+    {
+      "start": 271,
+      "end": 279,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 20",
+      "note": "进程与线程的上下文、栈与地址空间"
+    },
+    {
+      "start": 285,
+      "end": 323,
+      "module": "Memory Hierarchy",
+      "qno": "第二题",
+      "note": "FIFO 替换与用驱逐法测量 L1 d-cache 相联度"
+    },
+    {
+      "start": 329,
+      "end": 405,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第三题",
+      "note": "符号表节归属、重定位与程序入口点（Part C 兼 ECF）"
+    },
+    {
+      "start": 411,
+      "end": 469,
+      "module": "ECF and System IO",
+      "qno": "第四题",
+      "note": "fork/信号/waitpid 的顺序输出与信号处理"
+    },
+    {
+      "start": 476,
+      "end": 509,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第五题 1",
+      "note": "TLB 命中时的访存次数与页权限（含题干页表信息）"
+    },
+    {
+      "start": 510,
+      "end": 514,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第五题 2",
+      "note": "TLB 不命中时的页表遍历与地址翻译"
+    },
+    {
+      "start": 519,
+      "end": 543,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第五题 3",
+      "note": "malloc 未初始化与非法参数导致的段错误"
+    },
+    {
+      "start": 544,
+      "end": 555,
+      "module": "ECF and System IO",
+      "qno": "第五题 4",
+      "note": "double fault 异常的成因（不定项）"
+    },
+    {
+      "start": 561,
+      "end": 806,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第六题",
+      "note": "生产者-消费者：信号量解法与等待计数解法"
+    }
+  ],
+  "answer_sections": []
+}

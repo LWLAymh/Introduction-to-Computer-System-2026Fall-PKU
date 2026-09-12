@@ -1,0 +1,210 @@
+{
+  "file": "期中/2023期中-带答案.md",
+  "total_lines": 641,
+  "items": [
+    {
+      "start": 53,
+      "end": 69,
+      "module": "Data Representation",
+      "qno": "第一题 1",
+      "note": "有符号/无符号比较与short截断、符号扩展"
+    },
+    {
+      "start": 70,
+      "end": 88,
+      "module": "Data Representation",
+      "qno": "第一题 2",
+      "note": "整型运算规则：乘法溢出、右移与lowbit"
+    },
+    {
+      "start": 89,
+      "end": 101,
+      "module": "Data Representation",
+      "qno": "第一题 3",
+      "note": "浮点位级表示、最小正规格化数与无穷"
+    },
+    {
+      "start": 102,
+      "end": 117,
+      "module": "Machine Prog",
+      "qno": "第一题 4",
+      "note": "x86-64 mov指令操作数与寄存器的合法组合"
+    },
+    {
+      "start": 118,
+      "end": 138,
+      "module": "Machine Prog",
+      "qno": "第一题 5",
+      "note": "数组寻址lea指令与下标反推"
+    },
+    {
+      "start": 139,
+      "end": 153,
+      "module": "Machine Prog",
+      "qno": "第一题 6",
+      "note": "cmp/test/set与条件传送指令语义"
+    },
+    {
+      "start": 154,
+      "end": 160,
+      "module": "Machine Prog",
+      "qno": "第一题 7",
+      "note": "call指令将返回地址压栈"
+    },
+    {
+      "start": 161,
+      "end": 176,
+      "module": "Machine Prog",
+      "qno": "第一题 8",
+      "note": "struct/union对齐与成员偏移"
+    },
+    {
+      "start": 181,
+      "end": 189,
+      "module": "Machine Prog",
+      "qno": "第一题 9",
+      "note": "指针数组声明的sizeof计算"
+    },
+    {
+      "start": 190,
+      "end": 195,
+      "module": "Data Representation",
+      "qno": "第一题 10",
+      "note": "lowbit运算 x & (-x)"
+    },
+    {
+      "start": 196,
+      "end": 210,
+      "module": "Processor Arch",
+      "qno": "第一题 11",
+      "note": "用MUX4实现HCL表达式"
+    },
+    {
+      "start": 211,
+      "end": 239,
+      "module": "Machine Prog",
+      "qno": "第一题 12",
+      "note": "栈帧布局与缓冲区溢出对局部变量的影响"
+    },
+    {
+      "start": 244,
+      "end": 251,
+      "module": "Data Representation",
+      "qno": "第一题 13",
+      "note": "类型转换中的舍入与溢出判断"
+    },
+    {
+      "start": 252,
+      "end": 263,
+      "module": "Data Representation",
+      "qno": "第一题 14",
+      "note": "补码位级值与整型运算结果"
+    },
+    {
+      "start": 264,
+      "end": 276,
+      "module": "Data Representation",
+      "qno": "第一题 15",
+      "note": "sizeof返回无符号数导致的隐式转换"
+    },
+    {
+      "start": 281,
+      "end": 295,
+      "module": "Processor Arch",
+      "qno": "第一题 16",
+      "note": "SEQ中newPC的HCL（ret阶段取valM）"
+    },
+    {
+      "start": 296,
+      "end": 306,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 17",
+      "note": "RAM与NVM（非易失存储器）特性"
+    },
+    {
+      "start": 307,
+      "end": 347,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 18",
+      "note": "磁盘访问时间：寻道、旋转延迟与传送时间"
+    },
+    {
+      "start": 348,
+      "end": 362,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 19",
+      "note": "组相联cache访存序列命中次数模拟"
+    },
+    {
+      "start": 363,
+      "end": 387,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 20",
+      "note": "程序优化：循环展开与编译器优化限制"
+    },
+    {
+      "start": 397,
+      "end": 434,
+      "module": "Data Representation",
+      "qno": "第二题",
+      "note": "FP8 E4M3/E5M2浮点格式：规格化数、溢出舍入、求和顺序"
+    },
+    {
+      "start": 460,
+      "end": 507,
+      "module": "Machine Prog",
+      "qno": "第三题",
+      "note": "递归函数ncr的C与汇编代码补全"
+    },
+    {
+      "start": 533,
+      "end": 586,
+      "module": "Processor Arch",
+      "qno": "第四题",
+      "note": "Y86-64新增Bxx/JxxR指令与PIPE前递、冒险控制"
+    },
+    {
+      "start": 606,
+      "end": 613,
+      "module": "Memory Hierarchy",
+      "qno": "第五题 1",
+      "note": "时间/空间局部性的定义与解释"
+    },
+    {
+      "start": 614,
+      "end": 633,
+      "module": "Memory Hierarchy",
+      "qno": "第五题 2",
+      "note": "直接映射cache访存模拟与命中统计"
+    },
+    {
+      "start": 634,
+      "end": 640,
+      "module": "Memory Hierarchy",
+      "qno": "第五题 3",
+      "note": "L1 d-cache地址位域划分与组数计算"
+    }
+  ],
+  "answer_sections": [
+    {
+      "start": 49,
+      "end": 52,
+      "note": "第一题选择题答案表"
+    },
+    {
+      "start": 435,
+      "end": 453,
+      "note": "第二题参考答案与评分标准修订"
+    },
+    {
+      "start": 508,
+      "end": 527,
+      "note": "第三题参考答案"
+    },
+    {
+      "start": 587,
+      "end": 600,
+      "note": "第四题参考答案"
+    }
+  ]
+}

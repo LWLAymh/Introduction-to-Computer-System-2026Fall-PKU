@@ -1,0 +1,357 @@
+{
+  "file": "Lab测验/2025Lab测验-无答案.md",
+  "total_lines": 875,
+  "items": [
+    {
+      "start": 57,
+      "end": 61,
+      "module": "ECF and System IO",
+      "qno": "Lab 任务 1",
+      "note": "ls -a 显示隐藏文件（L0 命令行）"
+    },
+    {
+      "start": 62,
+      "end": 66,
+      "module": "ECF and System IO",
+      "qno": "Lab 任务 2",
+      "note": "cd 的 - 参数表示上次所在目录"
+    },
+    {
+      "start": 71,
+      "end": 75,
+      "module": "ECF and System IO",
+      "qno": "Lab 任务 3",
+      "note": "chmod 755 的文件权限位"
+    },
+    {
+      "start": 76,
+      "end": 83,
+      "module": "ECF and System IO",
+      "qno": "Lab 任务 4",
+      "note": "tar/gcc/rm/rmdir/grep 命令用法辨误"
+    },
+    {
+      "start": 84,
+      "end": 89,
+      "module": "Network",
+      "qno": "Lab 任务 5",
+      "note": "ssh-keygen 公钥/私钥的存放位置（兼 Unix 工具）"
+    },
+    {
+      "start": 90,
+      "end": 96,
+      "module": "Network",
+      "qno": "Lab 任务 6",
+      "note": "scp 指定端口复制文件到远程主机"
+    },
+    {
+      "start": 101,
+      "end": 105,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "Lab 任务 7",
+      "note": "Makefile 模式规则 %.o: %.c"
+    },
+    {
+      "start": 106,
+      "end": 110,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "Lab 任务 8",
+      "note": "make 默认目标与执行过程"
+    },
+    {
+      "start": 111,
+      "end": 118,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "Lab 任务 9",
+      "note": "gcc -c 生成目标文件与 objdump -d 反汇编（兼 Machine Prog）"
+    },
+    {
+      "start": 119,
+      "end": 123,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "Lab 任务 10",
+      "note": "binutils 中 ldd 查看共享库依赖"
+    },
+    {
+      "start": 131,
+      "end": 153,
+      "module": "Data Representation",
+      "qno": "Lab 任务 11",
+      "note": "satMul2 溢出判断表达式（补码运算）"
+    },
+    {
+      "start": 158,
+      "end": 177,
+      "module": "Data Representation",
+      "qno": "Lab 任务 12",
+      "note": "bitParity 奇偶校验的位运算求值"
+    },
+    {
+      "start": 178,
+      "end": 215,
+      "module": "Data Representation",
+      "qno": "Lab 任务 13",
+      "note": "float_half 浮点位模式减半与舍入"
+    },
+    {
+      "start": 216,
+      "end": 237,
+      "module": "Data Representation",
+      "qno": "Lab 任务 14",
+      "note": "byteSwap 字节交换的移位与掩码"
+    },
+    {
+      "start": 238,
+      "end": 252,
+      "module": "Data Representation",
+      "qno": "Lab 任务 15",
+      "note": "oddBits 奇数位全 1 的常量构造"
+    },
+    {
+      "start": 260,
+      "end": 267,
+      "module": "ECF and System IO",
+      "qno": "Lab 任务 16",
+      "note": "GDB 断点通过 INT3 触发陷阱实现"
+    },
+    {
+      "start": 268,
+      "end": 276,
+      "module": "Machine Prog",
+      "qno": "Lab 任务 17",
+      "note": "GDB 常用命令（break/info registers/ni/si/p）辨误"
+    },
+    {
+      "start": 277,
+      "end": 299,
+      "module": "Machine Prog",
+      "qno": "Lab 任务 18",
+      "note": "BombLab phase_1 反汇编分析"
+    },
+    {
+      "start": 300,
+      "end": 344,
+      "module": "Machine Prog",
+      "qno": "Lab 任务 19",
+      "note": "BombLab phase_2 反汇编（数列递推）分析"
+    },
+    {
+      "start": 349,
+      "end": 456,
+      "module": "Machine Prog",
+      "qno": "Lab 任务 20",
+      "note": "BombLab phase_3 跳转表与断点处寄存器分析"
+    },
+    {
+      "start": 464,
+      "end": 474,
+      "module": "ECF and System IO",
+      "qno": "Lab 任务 21",
+      "note": "hex2raw 用法与 shell 管道/输入输出重定向"
+    },
+    {
+      "start": 475,
+      "end": 482,
+      "module": "Machine Prog",
+      "qno": "Lab 任务 22",
+      "note": "缓冲区溢出漏洞、ASLR、金丝雀与 ROP 说法判断"
+    },
+    {
+      "start": 483,
+      "end": 489,
+      "module": "Machine Prog",
+      "qno": "Lab 任务 23",
+      "note": "gdb 调试 ctarget 的命令用法"
+    },
+    {
+      "start": 494,
+      "end": 507,
+      "module": "Machine Prog",
+      "qno": "Lab 任务 24",
+      "note": "getbuf 函数栈帧大小计算"
+    },
+    {
+      "start": 508,
+      "end": 561,
+      "module": "Machine Prog",
+      "qno": "Lab 任务 25",
+      "note": "AttackLab phase3 栈布局与 ROP 题解判断"
+    },
+    {
+      "start": 569,
+      "end": 596,
+      "module": "Processor Arch",
+      "qno": "Lab 任务 26",
+      "note": "SEQ 中新增 iopq 指令需改动的 HCL 位置"
+    },
+    {
+      "start": 601,
+      "end": 606,
+      "module": "Processor Arch",
+      "qno": "Lab 任务 27",
+      "note": "SEQ 到 pipe_std 五级流水线演进与冒险"
+    },
+    {
+      "start": 607,
+      "end": 625,
+      "module": "Processor Arch",
+      "qno": "Lab 任务 28",
+      "note": "ncopy.ys 两段循环代码的流水线性能对比"
+    },
+    {
+      "start": 626,
+      "end": 631,
+      "module": "Processor Arch",
+      "qno": "Lab 任务 29",
+      "note": "评分 c=cpe+2*ac 下代码与架构的优化权衡"
+    },
+    {
+      "start": 636,
+      "end": 656,
+      "module": "Processor Arch",
+      "qno": "Lab 任务 30",
+      "note": "pipe_std 关键路径/传播顺序与降低 ac 的优化"
+    },
+    {
+      "start": 664,
+      "end": 668,
+      "module": "Memory Hierarchy",
+      "qno": "Lab 任务 31",
+      "note": "CacheLab 中 valgrind 生成内存访问 trace"
+    },
+    {
+      "start": 669,
+      "end": 674,
+      "module": "Memory Hierarchy",
+      "qno": "Lab 任务 32",
+      "note": "trace 中 I（指令加载）操作应被忽略"
+    },
+    {
+      "start": 675,
+      "end": 682,
+      "module": "Memory Hierarchy",
+      "qno": "Lab 任务 33",
+      "note": "csim 解析 M 操作时按 L+S 处理"
+    },
+    {
+      "start": 687,
+      "end": 698,
+      "module": "Memory Hierarchy",
+      "qno": "Lab 任务 34",
+      "note": "矩阵转置 blocking 分块改善空间局部性"
+    },
+    {
+      "start": 699,
+      "end": 704,
+      "module": "ECF and System IO",
+      "qno": "Lab 任务 35",
+      "note": "getopt 解析命令行参数（Unix API，CacheLab 语境）"
+    },
+    {
+      "start": 712,
+      "end": 721,
+      "module": "ECF and System IO",
+      "qno": "Lab 任务 36",
+      "note": "ShellLab tsh 与真实 shell 的功能对比"
+    },
+    {
+      "start": 722,
+      "end": 731,
+      "module": "ECF and System IO",
+      "qno": "Lab 任务 37",
+      "note": "为避免竞态的信号屏蔽与解除时机"
+    },
+    {
+      "start": 736,
+      "end": 741,
+      "module": "ECF and System IO",
+      "qno": "Lab 任务 38",
+      "note": "ShellLab 内建命令 jobs/bg/kill/nohup"
+    },
+    {
+      "start": 742,
+      "end": 761,
+      "module": "ECF and System IO",
+      "qno": "Lab 任务 39",
+      "note": "sigchld_handler 中 WIFSTOPPED/WIFCONTINUED 判断"
+    },
+    {
+      "start": 766,
+      "end": 797,
+      "module": "ECF and System IO",
+      "qno": "Lab 任务 40",
+      "note": "waitfg 前台等待的正确实现（sigsuspend）"
+    },
+    {
+      "start": 805,
+      "end": 809,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "Lab 任务 41",
+      "note": "MallocLab 分配器返回指针的对齐要求"
+    },
+    {
+      "start": 810,
+      "end": 814,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "Lab 任务 42",
+      "note": "用 mem_sbrk 扩展堆，禁用 libc malloc/mmap"
+    },
+    {
+      "start": 815,
+      "end": 822,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "Lab 任务 43",
+      "note": "free/realloc/calloc 的行为辨析"
+    },
+    {
+      "start": 827,
+      "end": 834,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "Lab 任务 44",
+      "note": "空闲链表查找策略与空间利用率/吞吐量权衡"
+    },
+    {
+      "start": 835,
+      "end": 840,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "Lab 任务 45",
+      "note": "堆大小限制及其带来的优化思路"
+    },
+    {
+      "start": 848,
+      "end": 852,
+      "module": "Network",
+      "qno": "Lab 任务 46",
+      "note": "IPv4/IPv6 地址长度"
+    },
+    {
+      "start": 853,
+      "end": 857,
+      "module": "Network",
+      "qno": "Lab 任务 47",
+      "note": "TCP 与 UDP 的区别"
+    },
+    {
+      "start": 858,
+      "end": 862,
+      "module": "Network",
+      "qno": "Lab 任务 48",
+      "note": "/24 子网可用主机地址数量"
+    },
+    {
+      "start": 863,
+      "end": 868,
+      "module": "Network",
+      "qno": "Lab 任务 49",
+      "note": "10.7.74.125 的地址类别与私有地址"
+    },
+    {
+      "start": 869,
+      "end": 874,
+      "module": "Network",
+      "qno": "Lab 任务 50",
+      "note": "域名映射、IP 可靠性与 getaddrinfo/freeaddrinfo"
+    }
+  ],
+  "answer_sections": []
+}

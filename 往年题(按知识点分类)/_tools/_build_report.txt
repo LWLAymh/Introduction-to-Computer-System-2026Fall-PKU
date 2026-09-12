@@ -1,0 +1,11 @@
+Data Representation                            items=131  papers=30
+Machine Prog                                   items=156  papers=31
+Processor Arch                                 items=132  papers=32
+Memory Hierarchy                               items=121  papers=29
+Compilation (Program optimization and linking) items=105  papers=33
+ECF and System IO                              items=110  papers=23
+Virtual Memory and Dynamic Memory Allocation   items=105  papers=19
+Network                                        items=75   papers=19
+Concurrent Programming and Synchronization     items=74   papers=18
+
+total items: 1009

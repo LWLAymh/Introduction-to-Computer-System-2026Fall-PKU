@@ -1,0 +1,217 @@
+{
+  "file": "期末/2014期末-带答案.md",
+  "total_lines": 847,
+  "items": [
+    {
+      "start": 49,
+      "end": 57,
+      "module": "Data Representation",
+      "qno": "第一题 1",
+      "note": "IEEE浮点位数分配与表示个数/范围"
+    },
+    {
+      "start": 58,
+      "end": 66,
+      "module": "Data Representation",
+      "qno": "第一题 2",
+      "note": "算术右移与除法舍入的等价性"
+    },
+    {
+      "start": 67,
+      "end": 83,
+      "module": "Machine Prog",
+      "qno": "第一题 3",
+      "note": "由汇编 lea/cmov 反推 C 表达式"
+    },
+    {
+      "start": 84,
+      "end": 92,
+      "module": "Machine Prog",
+      "qno": "第一题 4",
+      "note": "结构体数据对齐与 sizeof 比较"
+    },
+    {
+      "start": 93,
+      "end": 100,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 5",
+      "note": "编译器安全优化策略"
+    },
+    {
+      "start": 101,
+      "end": 107,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 6",
+      "note": "高速缓存设计原理与局部性"
+    },
+    {
+      "start": 112,
+      "end": 125,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 7",
+      "note": "sumvec 的局部性分析"
+    },
+    {
+      "start": 126,
+      "end": 132,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 8",
+      "note": "静态库链接与命令行顺序"
+    },
+    {
+      "start": 133,
+      "end": 148,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 9",
+      "note": "static 全局变量影响的 ELF 节"
+    },
+    {
+      "start": 149,
+      "end": 166,
+      "module": "ECF and System IO",
+      "qno": "第一题 10",
+      "note": "fork 次数与 hello 输出个数"
+    },
+    {
+      "start": 167,
+      "end": 173,
+      "module": "ECF and System IO",
+      "qno": "第一题 11",
+      "note": "中断/异常/故障/陷阱的同步异步性质"
+    },
+    {
+      "start": 178,
+      "end": 197,
+      "module": "ECF and System IO",
+      "qno": "第一题 12",
+      "note": "SIGCHLD 处理程序与输出顺序"
+    },
+    {
+      "start": 198,
+      "end": 204,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 13",
+      "note": "TLB/Cache/Page 命中的不可能组合"
+    },
+    {
+      "start": 205,
+      "end": 221,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 14",
+      "note": "malloc 堆分配与栈数组的区别"
+    },
+    {
+      "start": 222,
+      "end": 243,
+      "module": "ECF and System IO",
+      "qno": "第一题 15",
+      "note": "open/dup/read/write 与文件长度"
+    },
+    {
+      "start": 244,
+      "end": 256,
+      "module": "ECF and System IO",
+      "qno": "第一题 16",
+      "note": "标准I/O、RIO 与缓冲区"
+    },
+    {
+      "start": 257,
+      "end": 264,
+      "module": "Network",
+      "qno": "第一题 17",
+      "note": "不同协议局域网互连设备"
+    },
+    {
+      "start": 265,
+      "end": 271,
+      "module": "Network",
+      "qno": "第一题 18",
+      "note": "TCP/UDP/HTTP 基础概念"
+    },
+    {
+      "start": 272,
+      "end": 298,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 19",
+      "note": "Pthread_detach 与 Pthread_create 用法"
+    },
+    {
+      "start": 299,
+      "end": 321,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 20",
+      "note": "并发轨迹线安全/不安全判定"
+    },
+    {
+      "start": 327,
+      "end": 369,
+      "module": "Data Representation",
+      "qno": "第二题 1",
+      "note": "字节置换与位运算的信息表示（含共用代码）"
+    },
+    {
+      "start": 370,
+      "end": 416,
+      "module": "Machine Prog",
+      "qno": "第二题 2",
+      "note": "反汇编填空（movzbl/shl/push/pop 等）"
+    },
+    {
+      "start": 422,
+      "end": 449,
+      "module": "Processor Arch",
+      "qno": "第三题",
+      "note": "组合逻辑流水化级数与吞吐率计算"
+    },
+    {
+      "start": 455,
+      "end": 533,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第四题",
+      "note": "符号强弱属性、静态库链接顺序与重定位"
+    },
+    {
+      "start": 539,
+      "end": 601,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第五题",
+      "note": "IA32 二级页表 + TLB 地址翻译全过程"
+    },
+    {
+      "start": 607,
+      "end": 638,
+      "module": "ECF and System IO",
+      "qno": "第六题 1",
+      "note": "fork/dup2/read/write 后文件内容与输出"
+    },
+    {
+      "start": 639,
+      "end": 667,
+      "module": "ECF and System IO",
+      "qno": "第六题 2",
+      "note": "用 signal/alarm/pause 实现 sleep 的缺陷"
+    },
+    {
+      "start": 673,
+      "end": 721,
+      "module": "ECF and System IO",
+      "qno": "第七题",
+      "note": "描述符表/打开文件表/v-node 表与 dup2"
+    },
+    {
+      "start": 727,
+      "end": 786,
+      "module": "Network",
+      "qno": "第八题",
+      "note": "socket 数量、Connection socket pair、Echo/Tiny Server"
+    },
+    {
+      "start": 792,
+      "end": 846,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第九题",
+      "note": "水果盘问题的信号量设计与 PV 填空"
+    }
+  ],
+  "answer_sections": []
+}

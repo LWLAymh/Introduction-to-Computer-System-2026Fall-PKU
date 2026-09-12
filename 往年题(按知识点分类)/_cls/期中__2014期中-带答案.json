@@ -1,0 +1,230 @@
+{
+  "file": "期中/2014期中-带答案.md",
+  "total_lines": 727,
+  "items": [
+    {
+      "start": 28,
+      "end": 53,
+      "module": "Data Representation",
+      "qno": "第一题 1",
+      "note": "有符号/无符号比较、取负、左移与乘 16"
+    },
+    {
+      "start": 55,
+      "end": 76,
+      "module": "Data Representation",
+      "qno": "第一题 2",
+      "note": "反码/补码中 0 的唯一性、单精度浮点位模式"
+    },
+    {
+      "start": 78,
+      "end": 87,
+      "module": "Data Representation",
+      "qno": "第一题 3",
+      "note": "无符号比较、逻辑右移、整型溢出"
+    },
+    {
+      "start": 89,
+      "end": 100,
+      "module": "Machine Prog",
+      "qno": "第一题 4",
+      "note": "只改条件码不改寄存器的指令 CMP/TEST"
+    },
+    {
+      "start": 102,
+      "end": 113,
+      "module": "Machine Prog",
+      "qno": "第一题 5",
+      "note": "x86 各寻址方式写法的正确性"
+    },
+    {
+      "start": 115,
+      "end": 143,
+      "module": "Data Representation",
+      "qno": "第一题 6",
+      "note": "结构体对齐与 sizeof、成员指针差（兼 Machine Prog）"
+    },
+    {
+      "start": 145,
+      "end": 156,
+      "module": "Machine Prog",
+      "qno": "第一题 7",
+      "note": "缓冲区溢出的防护做法正误"
+    },
+    {
+      "start": 158,
+      "end": 171,
+      "module": "Machine Prog",
+      "qno": "第一题 8",
+      "note": "switch 跳转表的 jmp 汇编写法与比例因子"
+    },
+    {
+      "start": 173,
+      "end": 186,
+      "module": "Processor Arch",
+      "qno": "第一题 9",
+      "note": "组合电路逻辑门转 HCL 表达式"
+    },
+    {
+      "start": 188,
+      "end": 199,
+      "module": "Processor Arch",
+      "qno": "第一题 10",
+      "note": "三级流水线执行 10 条指令所需时间"
+    },
+    {
+      "start": 201,
+      "end": 215,
+      "module": "Processor Arch",
+      "qno": "第一题 11",
+      "note": "CISC 与 RISC 指令集特点对比"
+    },
+    {
+      "start": 217,
+      "end": 228,
+      "module": "Processor Arch",
+      "qno": "第一题 12",
+      "note": "流水线数据冒险、吞吐率与流水级划分"
+    },
+    {
+      "start": 230,
+      "end": 239,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 13",
+      "note": "程序性能说法辨析、循环展开代价（兼 Processor Arch）"
+    },
+    {
+      "start": 241,
+      "end": 260,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 14",
+      "note": "编译器总是自动进行的代码优化"
+    },
+    {
+      "start": 262,
+      "end": 271,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 15",
+      "note": "增加存储级数/容量对存取延时的影响"
+    },
+    {
+      "start": 273,
+      "end": 288,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 16",
+      "note": "cache miss rate 与 S/E/B、替换策略关系"
+    },
+    {
+      "start": 292,
+      "end": 317,
+      "module": "Data Representation",
+      "qno": "第二题 1）",
+      "note": "5 位补码与无符号转换、y-z、TMin 表示"
+    },
+    {
+      "start": 319,
+      "end": 339,
+      "module": "Data Representation",
+      "qno": "第二题 2）",
+      "note": "IEEE 单精度浮点规格化表示与十六进制"
+    },
+    {
+      "start": 343,
+      "end": 383,
+      "module": "Data Representation",
+      "qno": "第三题",
+      "note": "IA32 下变量内存字节表示、字节序与 tiny_float"
+    },
+    {
+      "start": 387,
+      "end": 406,
+      "module": "Machine Prog",
+      "qno": "第四题 1）",
+      "note": "x86-64 递归函数汇编，据 gdb 反汇编补全 C 代码"
+    },
+    {
+      "start": 408,
+      "end": 442,
+      "module": "Machine Prog",
+      "qno": "第四题 2）",
+      "note": "补全缺失的两条汇编指令并判断栈寄存器"
+    },
+    {
+      "start": 446,
+      "end": 495,
+      "module": "Machine Prog",
+      "qno": "第四题 3）",
+      "note": "递归调用 retq 处栈帧内容填写"
+    },
+    {
+      "start": 499,
+      "end": 550,
+      "module": "Machine Prog",
+      "qno": "第五题",
+      "note": "由 IA32 汇编补全 C 代码缺失部分并说明功能"
+    },
+    {
+      "start": 554,
+      "end": 583,
+      "module": "Processor Arch",
+      "qno": "第六题",
+      "note": "Y86 新增 caddXX 指令在 SEQ 各阶段的操作"
+    },
+    {
+      "start": 587,
+      "end": 609,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第七题 1）",
+      "note": "循环条件中重复调用 length 的效率问题与修改"
+    },
+    {
+      "start": 611,
+      "end": 611,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第七题 2）",
+      "note": "删除循环变量以消除函数调用"
+    },
+    {
+      "start": 613,
+      "end": 630,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第七题 3）",
+      "note": "给定访存延时求内层循环 CPE 下限"
+    },
+    {
+      "start": 659,
+      "end": 674,
+      "module": "Memory Hierarchy",
+      "qno": "第八题 1）",
+      "note": "S=2、E=2 的 cache 按 LRU 填访问后状态"
+    },
+    {
+      "start": 676,
+      "end": 678,
+      "module": "Memory Hierarchy",
+      "qno": "第八题 2）",
+      "note": "统计该访问序列的 miss 次数"
+    },
+    {
+      "start": 680,
+      "end": 689,
+      "module": "Memory Hierarchy",
+      "qno": "第八题 3）",
+      "note": "替换策略改为 MRU 后 cache 状态填写"
+    },
+    {
+      "start": 691,
+      "end": 693,
+      "module": "Memory Hierarchy",
+      "qno": "第八题 4）",
+      "note": "MRU 替换下统计 miss 次数"
+    }
+  ],
+  "answer_sections": [
+    {
+      "start": 632,
+      "end": 655,
+      "note": "第七题参考答案（1）~3）），本卷其余答案随题内嵌"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "file": "期末/2021期末-带答案/chap 10 解析.md",
+  "total_lines": 51,
+  "items": [
+    {
+      "start": 3,
+      "end": 11,
+      "module": "ECF and System IO",
+      "qno": "选择题 1",
+      "note": "Unix I/O：RIO、描述符重定向、open file table"
+    },
+    {
+      "start": 23,
+      "end": 49,
+      "module": "ECF and System IO",
+      "qno": "选择题 2",
+      "note": "O_APPEND 与共享文件偏移下的写入顺序结果"
+    }
+  ],
+  "answer_sections": [
+    {
+      "start": 13,
+      "end": 21,
+      "note": "第十章选择题 1 答案 B 与逐项解析"
+    },
+    {
+      "start": 51,
+      "end": 51,
+      "note": "第十章选择题 2 答案 D"
+    }
+  ]
+}

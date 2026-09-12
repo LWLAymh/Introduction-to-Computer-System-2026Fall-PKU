@@ -1,0 +1,175 @@
+{
+  "file": "期末/2015期末-20151109-带答案.md",
+  "total_lines": 544,
+  "items": [
+    {
+      "start": 52,
+      "end": 62,
+      "module": "Data Representation",
+      "qno": "第一题 1",
+      "note": "单精度浮点表示的最大绝对舍入误差"
+    },
+    {
+      "start": 63,
+      "end": 68,
+      "module": "Data Representation",
+      "qno": "第一题 2",
+      "note": "补码加法溢出与逻辑运算的完备性"
+    },
+    {
+      "start": 69,
+      "end": 82,
+      "module": "Data Representation",
+      "qno": "第一题 3",
+      "note": "C90 整数提升与 INT_MIN 字面量"
+    },
+    {
+      "start": 83,
+      "end": 94,
+      "module": "Data Representation",
+      "qno": "第一题 4",
+      "note": "浮点比较的单调性与精度"
+    },
+    {
+      "start": 95,
+      "end": 112,
+      "module": "Machine Prog",
+      "qno": "第一题 5",
+      "note": "结构体对齐、填充与重排后最小大小"
+    },
+    {
+      "start": 117,
+      "end": 120,
+      "module": "Machine Prog",
+      "qno": "第一题 6",
+      "note": "x86 寻址方式合法性判断"
+    },
+    {
+      "start": 121,
+      "end": 125,
+      "module": "Data Representation",
+      "qno": "第一题 7",
+      "note": "大端法 union 的字节解释"
+    },
+    {
+      "start": 126,
+      "end": 135,
+      "module": "Machine Prog",
+      "qno": "第一题 8",
+      "note": "跳转表与 switch 标号"
+    },
+    {
+      "start": 136,
+      "end": 146,
+      "module": "Machine Prog",
+      "qno": "第一题 9",
+      "note": "leal/栈传参/寄存器保存/条件码综合"
+    },
+    {
+      "start": 147,
+      "end": 153,
+      "module": "Machine Prog",
+      "qno": "第一题 10",
+      "note": "只改条件码不改寄存器的指令（CMP/TEST）"
+    },
+    {
+      "start": 154,
+      "end": 160,
+      "module": "Processor Arch",
+      "qno": "第一题 11",
+      "note": "CISC 与 RISC 指令集设计对比"
+    },
+    {
+      "start": 161,
+      "end": 170,
+      "module": "Processor Arch",
+      "qno": "第一题 12",
+      "note": "组合逻辑+寄存器的延时与吞吐"
+    },
+    {
+      "start": 171,
+      "end": 181,
+      "module": "Processor Arch",
+      "qno": "第一题 13",
+      "note": "流水线数据冒险/转发与控制冒险"
+    },
+    {
+      "start": 182,
+      "end": 190,
+      "module": "Processor Arch",
+      "qno": "第一题 14",
+      "note": "Y86 SEQ 中 PC 更新的 HCL 数据来源"
+    },
+    {
+      "start": 191,
+      "end": 197,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 15",
+      "note": "SDRAM/DRAM/磁盘/SSD 特性"
+    },
+    {
+      "start": 198,
+      "end": 212,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 16",
+      "note": "磁盘扇区平均传送时间计算"
+    },
+    {
+      "start": 213,
+      "end": 220,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 17",
+      "note": "cache tag 位划分"
+    },
+    {
+      "start": 221,
+      "end": 227,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 18",
+      "note": "写策略、块大小、组相联度对失效率影响"
+    },
+    {
+      "start": 228,
+      "end": 234,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 19",
+      "note": "循环与数组的局部性"
+    },
+    {
+      "start": 235,
+      "end": 256,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 20",
+      "note": "哪些优化编译器可自动完成（别名/浮点结合）"
+    },
+    {
+      "start": 262,
+      "end": 307,
+      "module": "Data Representation",
+      "qno": "第二题",
+      "note": "整数/浮点表达式不定项 + 12-bit 浮点表示"
+    },
+    {
+      "start": 313,
+      "end": 394,
+      "module": "Machine Prog",
+      "qno": "第三题",
+      "note": "union 大小、汇编填空、X86/Y86 代码改错"
+    },
+    {
+      "start": 400,
+      "end": 482,
+      "module": "Processor Arch",
+      "qno": "第四题",
+      "note": "Y86 新增 NewJE 指令的 SEQ/PIPE 实现与冒险"
+    },
+    {
+      "start": 488,
+      "end": 543,
+      "module": "Memory Hierarchy",
+      "qno": "第五题",
+      "note": "组相联/全相联 cache 的失效次数与最终状态"
+    }
+  ],
+  "answer_sections": []
+}

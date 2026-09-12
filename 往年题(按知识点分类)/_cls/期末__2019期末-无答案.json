@@ -1,0 +1,217 @@
+{
+  "file": "期末/2019期末-无答案.md",
+  "total_lines": 573,
+  "items": [
+    {
+      "start": 53,
+      "end": 58,
+      "module": "Data Representation",
+      "qno": "第一题 1",
+      "note": "浮点加法结合律与舍入、重排表达式"
+    },
+    {
+      "start": 59,
+      "end": 63,
+      "module": "Processor Arch",
+      "qno": "第一题 2",
+      "note": "PIPE 流水线数据冒险的判定"
+    },
+    {
+      "start": 64,
+      "end": 72,
+      "module": "Data Representation",
+      "qno": "第一题 3",
+      "note": "有符号除法与算术右移的舍入差异"
+    },
+    {
+      "start": 73,
+      "end": 77,
+      "module": "Processor Arch",
+      "qno": "第一题 4",
+      "note": "RISC 与 CISC 指令集特点"
+    },
+    {
+      "start": 78,
+      "end": 87,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 5",
+      "note": "磁盘/DRAM/SSD/SRAM 存储介质特性"
+    },
+    {
+      "start": 88,
+      "end": 93,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 6",
+      "note": "链接时哪些符号需要重定位"
+    },
+    {
+      "start": 94,
+      "end": 98,
+      "module": "ECF and System IO",
+      "qno": "第一题 7",
+      "note": "同步/异步异常与异常返回行为"
+    },
+    {
+      "start": 99,
+      "end": 109,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 8",
+      "note": "进程并发与并行的区别"
+    },
+    {
+      "start": 110,
+      "end": 115,
+      "module": "ECF and System IO",
+      "qno": "第一题 9",
+      "note": "fork/setjmp/longjmp/execve 返回次数"
+    },
+    {
+      "start": 116,
+      "end": 121,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 10",
+      "note": "用户/内核态与进程切换时 TLB、cache 刷新（兼 Memory Hierarchy）"
+    },
+    {
+      "start": 126,
+      "end": 131,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 11",
+      "note": "多级页表层数的计算"
+    },
+    {
+      "start": 132,
+      "end": 151,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 12",
+      "note": "malloc/free 与显式空闲链表、内部碎片"
+    },
+    {
+      "start": 152,
+      "end": 158,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 13",
+      "note": "TLB 与四级页表下访问物理内存次数"
+    },
+    {
+      "start": 159,
+      "end": 169,
+      "module": "Network",
+      "qno": "第一题 14",
+      "note": "迭代 echo 服务器中客户端阻塞位置"
+    },
+    {
+      "start": 170,
+      "end": 174,
+      "module": "Network",
+      "qno": "第一题 15",
+      "note": "IP 地址、套接字地址与网络字节序"
+    },
+    {
+      "start": 175,
+      "end": 182,
+      "module": "Network",
+      "qno": "第一题 16",
+      "note": "Web 服务器 CGI 动态内容"
+    },
+    {
+      "start": 183,
+      "end": 195,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 17",
+      "note": "死锁现象的判定"
+    },
+    {
+      "start": 196,
+      "end": 202,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 18",
+      "note": "线程安全与可重入函数"
+    },
+    {
+      "start": 203,
+      "end": 228,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 19",
+      "note": "多线程 echo 服务器中 connfd 的竞争"
+    },
+    {
+      "start": 229,
+      "end": 236,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 20",
+      "note": "信号量与 P/V 操作语义"
+    },
+    {
+      "start": 242,
+      "end": 255,
+      "module": "Machine Prog",
+      "qno": "第二题 (1)",
+      "note": "由汇编循环推断 C 代码循环次数（含共用汇编段）"
+    },
+    {
+      "start": 256,
+      "end": 258,
+      "module": "Processor Arch",
+      "qno": "第二题 (2)",
+      "note": "SEQ 处理器理想情况下的周期数"
+    },
+    {
+      "start": 259,
+      "end": 264,
+      "module": "Memory Hierarchy",
+      "qno": "第二题 (3)",
+      "note": "直接映射数据缓存未命中与周期数"
+    },
+    {
+      "start": 265,
+      "end": 268,
+      "module": "Processor Arch",
+      "qno": "第二题 (4)",
+      "note": "增加加法器后双发射的周期数"
+    },
+    {
+      "start": 269,
+      "end": 284,
+      "module": "Processor Arch",
+      "qno": "第二题 (5)",
+      "note": "循环展开并重排指令后的最短周期数（兼 Compilation）"
+    },
+    {
+      "start": 290,
+      "end": 378,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第三题",
+      "note": "符号表、强弱符号与重定位引用值"
+    },
+    {
+      "start": 384,
+      "end": 447,
+      "module": "ECF and System IO",
+      "qno": "第四题",
+      "note": "open/dup/fork/waitpid 的文件描述符与文件内容"
+    },
+    {
+      "start": 453,
+      "end": 471,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第五题",
+      "note": "二级页表地址翻译与写时复制（兼 ECF）"
+    },
+    {
+      "start": 477,
+      "end": 523,
+      "module": "Network",
+      "qno": "第六题",
+      "note": "client-server echo 框架与 open_listenfd 补全"
+    },
+    {
+      "start": 530,
+      "end": 572,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第七题",
+      "note": "第一类读者-写者问题的执行流程分析"
+    }
+  ],
+  "answer_sections": []
+}

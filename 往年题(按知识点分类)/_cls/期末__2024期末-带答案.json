@@ -1,0 +1,184 @@
+{
+  "file": "期末/2024期末-带答案.md",
+  "total_lines": 1115,
+  "items": [
+    {
+      "start": 49,
+      "end": 100,
+      "module": "Data Representation",
+      "qno": "第一题 1",
+      "note": "半字节 int4/float4 的表示与 f2b/f2i 转换"
+    },
+    {
+      "start": 101,
+      "end": 120,
+      "module": "Processor Arch",
+      "qno": "第一题 2",
+      "note": "RISC/CISC、流水线转发优先级与异常"
+    },
+    {
+      "start": 121,
+      "end": 129,
+      "module": "Processor Arch",
+      "qno": "第一题 3",
+      "note": "组合逻辑延迟与流水线寄存器插位/吞吐率"
+    },
+    {
+      "start": 130,
+      "end": 144,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 4",
+      "note": "SRAM/DRAM/ROM/SSD 特性与抖动"
+    },
+    {
+      "start": 145,
+      "end": 182,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 5",
+      "note": "gcc 编译链接过程、ld 报错与重定位"
+    },
+    {
+      "start": 183,
+      "end": 228,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 6",
+      "note": "符号表条目与 .data/.bss/UND 节"
+    },
+    {
+      "start": 229,
+      "end": 243,
+      "module": "ECF and System IO",
+      "qno": "第一题 7",
+      "note": "进程调度/fork/异常返回/信号辨析"
+    },
+    {
+      "start": 244,
+      "end": 266,
+      "module": "ECF and System IO",
+      "qno": "第一题 8",
+      "note": "stdio 缓冲区、SIGKILL 与 fork 缓冲区"
+    },
+    {
+      "start": 267,
+      "end": 282,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 9",
+      "note": "页表/TLB/CR3 与大页下的多级页表"
+    },
+    {
+      "start": 283,
+      "end": 307,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 10",
+      "note": "COW、mmap/munmap 与交换空间"
+    },
+    {
+      "start": 308,
+      "end": 313,
+      "module": "Network",
+      "qno": "第一题 11",
+      "note": "IP 递送机制、TCP 与域名映射"
+    },
+    {
+      "start": 314,
+      "end": 337,
+      "module": "Network",
+      "qno": "第一题 12",
+      "note": "套接字接口 bind/listen/connect"
+    },
+    {
+      "start": 338,
+      "end": 344,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 13",
+      "note": "线程栈与 pthread_join/detach"
+    },
+    {
+      "start": 345,
+      "end": 361,
+      "module": "Processor Arch",
+      "qno": "第一题 14",
+      "note": "摩尔定律/登纳德缩放与多核趋势（存疑）"
+    },
+    {
+      "start": 362,
+      "end": 369,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 15",
+      "note": "数据密集型 vs 计算密集型（存疑）"
+    },
+    {
+      "start": 375,
+      "end": 438,
+      "module": "Processor Arch",
+      "qno": "第二题",
+      "note": "Y86-64 SEQ/PIPE 新增 cdeclXX 与周期数"
+    },
+    {
+      "start": 444,
+      "end": 470,
+      "module": "ECF and System IO",
+      "qno": "第三题 Part A",
+      "note": "open/dup2/fork/write 与文件偏移"
+    },
+    {
+      "start": 471,
+      "end": 537,
+      "module": "ECF and System IO",
+      "qno": "第三题 Part B",
+      "note": "信号处理函数注册、kill 与 sigprocmask"
+    },
+    {
+      "start": 538,
+      "end": 581,
+      "module": "ECF and System IO",
+      "qno": "第三题 Part C",
+      "note": "fork 父子进程 buffer 与文件写结果"
+    },
+    {
+      "start": 650,
+      "end": 683,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第四题 Part A",
+      "note": "TLB/一级与多级页表地址翻译"
+    },
+    {
+      "start": 684,
+      "end": 730,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第四题 Part B",
+      "note": "隐式空闲链表、合并复杂度与利用率"
+    },
+    {
+      "start": 795,
+      "end": 979,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第五题 Part A",
+      "note": "读者-写者与信号量代码补全、饥饿"
+    },
+    {
+      "start": 980,
+      "end": 1106,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第五题 Part B",
+      "note": "线程/信号共享变量、竞态与信号安全"
+    }
+  ],
+  "answer_sections": [
+    {
+      "start": 582,
+      "end": 644,
+      "note": "第三题参考答案与解析"
+    },
+    {
+      "start": 731,
+      "end": 785,
+      "note": "第四题答案与解析"
+    },
+    {
+      "start": 1107,
+      "end": 1114,
+      "note": "第五题答案"
+    }
+  ]
+}

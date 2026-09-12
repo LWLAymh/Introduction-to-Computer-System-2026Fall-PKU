@@ -1,0 +1,63 @@
+{
+  "file": "期末/2021期末-带答案/chap 11-12 题目.md",
+  "total_lines": 503,
+  "items": [
+    {
+      "start": 5,
+      "end": 11,
+      "module": "Network",
+      "qno": "选择题 1",
+      "note": "TCP 协议特性：可靠/全双工/基于IP/DNS"
+    },
+    {
+      "start": 13,
+      "end": 21,
+      "module": "Network",
+      "qno": "选择题 2",
+      "note": "TCP 套接字接口 connect/bind/listen/socket 辨析"
+    },
+    {
+      "start": 23,
+      "end": 31,
+      "module": "Network",
+      "qno": "选择题 3",
+      "note": "Web 服务、HTTP 状态码、URL 与域名映射"
+    },
+    {
+      "start": 35,
+      "end": 45,
+      "module": "Network",
+      "qno": "备选题 4",
+      "note": "网络字节序、DNS、域名与套接字概念"
+    },
+    {
+      "start": 49,
+      "end": 59,
+      "module": "Network",
+      "qno": "备选题 5",
+      "note": "网络基本概念：客户端服务器指进程、以太网"
+    },
+    {
+      "start": 63,
+      "end": 71,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "选择题 1",
+      "note": "进程与线程模型：上下文、线程栈、地址空间"
+    },
+    {
+      "start": 77,
+      "end": 299,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "大题 小题1",
+      "note": "信号量解法1：P/V 顺序、死锁饥饿、rand 线程安全"
+    },
+    {
+      "start": 303,
+      "end": 503,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "大题 小题2",
+      "note": "信号量模拟条件变量：while 换 if 的同步错误"
+    }
+  ],
+  "answer_sections": []
+}

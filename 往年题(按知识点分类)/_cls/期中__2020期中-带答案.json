@@ -1,0 +1,31 @@
+{
+  "file": "期中/2020期中-带答案.md",
+  "total_lines": 471,
+  "items": [
+    { "start": 52, "end": 62, "module": "Machine Prog", "qno": "第一题 1", "note": "二维数组元素访问的寻址方式 addl" },
+    { "start": 63, "end": 69, "module": "Machine Prog", "qno": "第一题 2", "note": "条件码与 set/cmp/test/leaq 指令" },
+    { "start": 70, "end": 82, "module": "Machine Prog", "qno": "第一题 3", "note": "静态数组与指针数组的地址计算" },
+    { "start": 83, "end": 88, "module": "Machine Prog", "qno": "第一题 4", "note": "x86-64 过程调用与栈帧释放" },
+    { "start": 89, "end": 102, "module": "Machine Prog", "qno": "第一题 5", "note": "结构体成员偏移与 movl/leaq 选择" },
+    { "start": 103, "end": 116, "module": "Processor Arch", "qno": "第一题 6", "note": "PIPE 中 mem_addr 的 HCL 描述" },
+    { "start": 117, "end": 124, "module": "Processor Arch", "qno": "第一题 7", "note": "SEQ/PIPE 预测策略、CPI 与流水线划分" },
+    { "start": 125, "end": 149, "module": "Compilation (Program optimization and linking)", "qno": "第一题 8", "note": "编译器可行优化与别名/副作用限制" },
+    { "start": 153, "end": 158, "module": "Memory Hierarchy", "qno": "第一题 9", "note": "循环代码体现的局部性种类" },
+    { "start": 159, "end": 165, "module": "Memory Hierarchy", "qno": "第一题 10", "note": "SRAM/DRAM/SSD 速度与用途" },
+    { "start": 166, "end": 172, "module": "Memory Hierarchy", "qno": "第一题 11", "note": "cache 替换策略与相联度对命中率影响" },
+    { "start": 173, "end": 177, "module": "Memory Hierarchy", "qno": "第一题 12", "note": "SRAM/DRAM/SDRAM 特性辨析" },
+    { "start": 183, "end": 217, "module": "Data Representation", "qno": "第二题 第一段", "note": "union 中 double 的位模式与 IEEE 浮点解释" },
+    { "start": 218, "end": 226, "module": "Data Representation", "qno": "第二题 第二段", "note": "float 精度、(int) 截断与不可精确表示的数" },
+    { "start": 233, "end": 283, "module": "Machine Prog", "qno": "第三题 1", "note": "C 与 x86-64 汇编填空：递归、参数传递" },
+    { "start": 284, "end": 301, "module": "Machine Prog", "qno": "第三题 2", "note": "断点处栈帧地址与存储值的推断" },
+    { "start": 302, "end": 302, "module": "Machine Prog", "qno": "第三题 3", "note": "递归函数 foo 的功能" },
+    { "start": 354, "end": 372, "module": "Processor Arch", "qno": "第四题 1", "note": "新指令在 SEQ 各阶段的操作补全" },
+    { "start": 377, "end": 392, "module": "Processor Arch", "qno": "第四题 2", "note": "PIPE 新增 enter 指令的硬件改造选项" },
+    { "start": 398, "end": 415, "module": "Memory Hierarchy", "qno": "第五题 1", "note": "非对齐访存对直接映射 cache 的影响" },
+    { "start": 416, "end": 435, "module": "Memory Hierarchy", "qno": "第五题 2", "note": "write back + no-write-allocate 下的组状态" },
+    { "start": 436, "end": 470, "module": "Memory Hierarchy", "qno": "第五题 3", "note": "块大小/全相联两方案的 miss 开销与 AMAT" }
+  ],
+  "answer_sections": [
+    { "start": 303, "end": 348, "note": "第三题参考答案与考察内容解析" }
+  ]
+}

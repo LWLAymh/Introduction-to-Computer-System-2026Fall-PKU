@@ -1,0 +1,175 @@
+{
+  "file": "期末/2018期末-带答案.md",
+  "total_lines": 920,
+  "items": [
+    {
+      "start": 53,
+      "end": 64,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 1",
+      "note": "累加变量与数组的时空局部性辨析"
+    },
+    {
+      "start": 65,
+      "end": 95,
+      "module": "Machine Prog",
+      "qno": "第一题 2",
+      "note": "结构体对齐填充与汇编寻址偏移"
+    },
+    {
+      "start": 96,
+      "end": 104,
+      "module": "Memory Hierarchy",
+      "qno": "第一题 3",
+      "note": "cache 替换策略与 miss 次数下界"
+    },
+    {
+      "start": 105,
+      "end": 122,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第一题 4",
+      "note": "链接、打桩与符号解析与重定位"
+    },
+    {
+      "start": 123,
+      "end": 135,
+      "module": "ECF and System IO",
+      "qno": "第一题 5",
+      "note": "模式位、waitpid、execve 与 signal"
+    },
+    {
+      "start": 136,
+      "end": 152,
+      "module": "ECF and System IO",
+      "qno": "第一题 6",
+      "note": "dup2 链式重定向后的文件引用关系"
+    },
+    {
+      "start": 153,
+      "end": 161,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 7",
+      "note": "页表、抖动与空闲链表释放复杂度"
+    },
+    {
+      "start": 162,
+      "end": 169,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 8",
+      "note": "同一页内两变量的物理地址关系"
+    },
+    {
+      "start": 170,
+      "end": 175,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第一题 9",
+      "note": "多级页表相对单级页表的主要优势"
+    },
+    {
+      "start": 176,
+      "end": 197,
+      "module": "Network",
+      "qno": "第一题 10",
+      "note": "Internet/IP 递送与帧头剥离封装"
+    },
+    {
+      "start": 198,
+      "end": 209,
+      "module": "Network",
+      "qno": "第一题 11",
+      "note": "套接字接口 API 与描述符读写"
+    },
+    {
+      "start": 210,
+      "end": 218,
+      "module": "Network",
+      "qno": "第一题 12",
+      "note": "打开网页所涉及的协议栈层次"
+    },
+    {
+      "start": 223,
+      "end": 228,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 13",
+      "note": "线程安全与可重入的包含关系"
+    },
+    {
+      "start": 229,
+      "end": 234,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 14",
+      "note": "进程与线程的资源共享与上下文切换"
+    },
+    {
+      "start": 235,
+      "end": 256,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第一题 15",
+      "note": "对等线程引用的变量集合判定"
+    },
+    {
+      "start": 262,
+      "end": 289,
+      "module": "Processor Arch",
+      "qno": "第二题",
+      "note": "组合逻辑流水化插寄存器与吞吐率计算"
+    },
+    {
+      "start": 295,
+      "end": 323,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第三题 1",
+      "note": "各符号的 .symtab 条目、类型与所在节"
+    },
+    {
+      "start": 324,
+      "end": 392,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第三题 2",
+      "note": "反汇编中的重定位条目与引用值计算"
+    },
+    {
+      "start": 398,
+      "end": 539,
+      "module": "ECF and System IO",
+      "qno": "第四题",
+      "note": "signal/kill 交替打印与描述符表/v-node 表分析"
+    },
+    {
+      "start": 545,
+      "end": 646,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第五题",
+      "note": "多级页表页数、TLB 地址翻译与页表项改写"
+    },
+    {
+      "start": 652,
+      "end": 687,
+      "module": "Network",
+      "qno": "第六题",
+      "note": "协议分层/面向连接判断与套接字连接流程填空"
+    },
+    {
+      "start": 693,
+      "end": 722,
+      "module": "Machine Prog",
+      "qno": "第七题 1",
+      "note": "i++ 对应的 x86-64 汇编代码"
+    },
+    {
+      "start": 727,
+      "end": 807,
+      "module": "Concurrent Programming and Synchronization",
+      "qno": "第七题 2-4",
+      "note": "i++/j++ 竞态的输出可能性与信号量死锁"
+    },
+    {
+      "start": 813,
+      "end": 919,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "第八题",
+      "note": "pmap 地址空间布局填空与 VSS/RSS/PSS 估算"
+    }
+  ],
+  "answer_sections": []
+}

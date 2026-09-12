@@ -1,0 +1,113 @@
+{
+  "file": "期末/2021期末-带答案/chap 9 解析.md",
+  "total_lines": 379,
+  "items": [
+    {
+      "start": 1,
+      "end": 11,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "选择题 1",
+      "note": "TLB 按虚拟地址索引、cache 物理寻址与进程/线程切换的影响"
+    },
+    {
+      "start": 25,
+      "end": 71,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "选择题 2",
+      "note": "mmap 私有映射 + fork 的 COW 决定程序输出（兼 ECF）"
+    },
+    {
+      "start": 79,
+      "end": 173,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "大题 1",
+      "note": "IA32 两级页表/直接映射 TLB 地址翻译：访存次数与页实质权限"
+    },
+    {
+      "start": 175,
+      "end": 175,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "大题 2",
+      "note": "TLB 不命中时二级页表起始地址与虚拟地址处单字节内容"
+    },
+    {
+      "start": 177,
+      "end": 215,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "大题 3",
+      "note": "malloc 不清零导致输出不定；n<0 使 malloc 失败的段错误（内存安全）"
+    },
+    {
+      "start": 217,
+      "end": 223,
+      "module": "ECF and System IO",
+      "qno": "大题 4",
+      "note": "缺页故障处理程序不在主存时引发 double fault（兼 VM）"
+    },
+    {
+      "start": 289,
+      "end": 299,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "备选题 1",
+      "note": "虚拟内存为内存管理提供的简化未体现的环节"
+    },
+    {
+      "start": 313,
+      "end": 323,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "备选题 2",
+      "note": "虚拟地址空间、物理地址与页映射的基本概念辨析"
+    },
+    {
+      "start": 337,
+      "end": 345,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "备选题 3",
+      "note": "动态内存分配：sbrk/free/malloc/mmap 的语义"
+    },
+    {
+      "start": 359,
+      "end": 367,
+      "module": "Virtual Memory and Dynamic Memory Allocation",
+      "qno": "备选题 4",
+      "note": "虚拟内存概念：虚存可小于物理内存、连续映射、.bss 匿名页"
+    }
+  ],
+  "answer_sections": [
+    {
+      "start": 13,
+      "end": 23,
+      "note": "选择题 1 答案与解析"
+    },
+    {
+      "start": 73,
+      "end": 77,
+      "note": "选择题 2 答案与解析（COW 过程详解）"
+    },
+    {
+      "start": 225,
+      "end": 287,
+      "note": "大题 1-4 的答案与解析"
+    },
+    {
+      "start": 301,
+      "end": 311,
+      "note": "备选题 1 答案与解析"
+    },
+    {
+      "start": 325,
+      "end": 335,
+      "note": "备选题 2 答案与解析"
+    },
+    {
+      "start": 347,
+      "end": 357,
+      "note": "备选题 3 答案与解析"
+    },
+    {
+      "start": 369,
+      "end": 379,
+      "note": "备选题 4 答案与解析"
+    }
+  ]
+}

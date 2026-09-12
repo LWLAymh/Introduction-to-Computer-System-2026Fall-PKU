@@ -1,0 +1,70 @@
+{
+  "file": "期末/2021期末-带答案/chap 7 解析.md",
+  "total_lines": 293,
+  "items": [
+    {
+      "start": 1,
+      "end": 13,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第 1 题",
+      "note": "objdump/readelf/ls/gdb 处理目标文件与可执行文件的作用"
+    },
+    {
+      "start": 27,
+      "end": 63,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第 2 题",
+      "note": "静态链接：未初始化全局变量在 COM/.bss 的归属与地址偏移"
+    },
+    {
+      "start": 75,
+      "end": 111,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第 3 题",
+      "note": "动态链接：dlopen 与 PLT/GOT、库的符号解析顺序"
+    },
+    {
+      "start": 136,
+      "end": 202,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第 4 题 题干+Part A",
+      "note": "符号表中的符号及其定义所在节（.bss/.rodata/UNDEF 等）"
+    },
+    {
+      "start": 204,
+      "end": 248,
+      "module": "Compilation (Program optimization and linking)",
+      "qno": "第 4 题 Part B",
+      "note": "重定位条目 R_X86_64_PLT32/PC32 与符号地址推算"
+    },
+    {
+      "start": 250,
+      "end": 252,
+      "module": "ECF and System IO",
+      "qno": "第 4 题 Part C",
+      "note": "execve 加载后的入口点 _start 与运行在用户态"
+    }
+  ],
+  "answer_sections": [
+    {
+      "start": 15,
+      "end": 25,
+      "note": "第 1 题答案与解析"
+    },
+    {
+      "start": 65,
+      "end": 73,
+      "note": "第 2 题答案与解析"
+    },
+    {
+      "start": 113,
+      "end": 131,
+      "note": "第 3 题答案与解析"
+    },
+    {
+      "start": 254,
+      "end": 293,
+      "note": "第 4 题 Part A/B/C 解析与评分标准"
+    }
+  ]
+}
